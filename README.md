@@ -26,6 +26,8 @@ modes such as bus, walk, car randomly for each trip.
 
 **The generation of londinium population are from a [notebook](https://github.com/arup-group/pam/blob/main/examples/04_Example-Create-Population-Londinium.ipynb) using a open source tool called [pam](https://github.com/arup-group/pam)**
 
+For example, we used the above notebook to generate a population including 100 agents. Each agent will have activity plan within 24 hours and random choose a mode between activities.  
+
 ### Population Files
 | File                                       | Size   |
 | -------------------------------------------|:-------|
