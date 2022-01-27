@@ -24,17 +24,26 @@ were classified into different subpopulations by gender and income. Activities a
 within 24 hours. Daily activity plans for each agent were created using random choice. Agents choose different travel
 modes such as bus, walk, car randomly for each trip.
 
+**The generation of londinium population are from a [notebook](https://github.com/arup-group/pam/blob/main/examples/04_Example-Create-Population-Londinium.ipynb) using a open source tool called [pam](https://github.com/arup-group/pam)**
+
 ### Population Files
 | File                                       | Size   |
 | -------------------------------------------|:-------|
-| `data/londinium/population/population.xml` | 126k   |
+| `data/population/population.xml`           | 126k   |
 
-
-It has been used to generate some scenarios' [data](https://github.com/arup-group/ersa/tree/main/data) using [matesto](https://github.com/arup-group/matesto) pipelines.
-
-More information about the londinium can be found from this [link](https://github.com/arup-group/matesto/blob/main/data/londinium/DATASET.md)
-
-The generation of londinium population are from a [notebook](https://github.com/arup-group/pam/blob/main/examples/04_Example-Create-Population-Londinium.ipynb) in [pam](https://github.com/arup-group/pam)
-
-Visualization for activities and trips' legs from londinium dataset. 
-![image](https://github.com/arup-group/londinium/blob/master/activities.png)
+### Population Details
+|                      |         |
+| -------------------- |:--------|
+| No. Agents           | 100     |
+| No. Households       | 100     |
+| No. Subpopulations   | 3       |
+| Subpopulation split  | <ul><li>`low income`: 28% <li>`medium income`: 35% <li>`high income`: 37%</ul> |
+| Gender split         | <ul><li>Female: 51% <li>Male: 49%</ul> |
+| Household LAD split  | <ul><li>`Wandsworth`: 25% <li>`Kensington and Chelsea`: 22% <li>`Hammersmith and Fulham`: 19% <li>`Lambeth`: 18% <li>`Westminster`: 14% <li>`Richmond upon Thames`: 2% </ul>
+| No trip legs         | 352     |
+| Leg mode counts      | <ul><li>48 mode="walk" <li>42 mode="bike" <li>54 mode="car" <li>49 mode="subway" <li>47 mode="rail" <li>50 mode="ferry" <li>62 mode="bus"</ul>
+| No. Activities       | 452     |
+| Activity type counts | <li>200: type="home" <li>40: type="shop" <li>41: type="medical" <li>46: type="gym" <li>22: type="park" <li>17: type="leisure" <li>44: type="pub" <li>25: type="education" <li>27: type="work" |
+  
+An example of activity plan from generated population
+<kbd><img src="example_activity_plan.png"/></kbd>
