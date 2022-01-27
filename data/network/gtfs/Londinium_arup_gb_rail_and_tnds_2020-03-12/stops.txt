@@ -1,0 +1,847 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+490000050D,,Clapham Common (Stop D),,51.4615210,-0.1384880,,,0,,Europe/London,1
+490000050E,,Clapham Common (Stop E),,51.4614070,-0.1387370,,,0,,Europe/London,1
+490000050G,,Clapham Common (Stop G),,51.4611970,-0.1386590,,,0,,Europe/London,1
+490000050K,,Clapham Common (Stop K),,51.4615250,-0.1381860,,,0,,Europe/London,1
+490000051B,,Clapham North & High Street Stations (Stop L),,51.4641150,-0.1319620,,,0,,Europe/London,1
+490000051C,,Clapham Road  Bedford Road (Stop C),,51.4658620,-0.1293850,,,0,,Europe/London,1
+490000051D,,Clapham North (Stop D),,51.4646800,-0.1291600,,,0,,Europe/London,1
+490000051F,,Clapham North (Stop F),,51.4650080,-0.1298950,,,0,,Europe/London,1
+490000051G,,Clapham North & High Street Stations (Stop G),,51.4649660,-0.1300980,,,0,,Europe/London,1
+490000051N1,,Clapham North,,51.4646490,-0.1295640,,,0,,Europe/London,1
+490000064A,,Earl's Court Station (Stop A),,51.4919970,-0.1925500,,,0,,Europe/London,1
+490000064C,,Earl's Court Station (Stop C),,51.4905930,-0.1965530,,,0,,Europe/London,1
+490000064N,,Earl's Court Station,,51.4910430,-0.1972550,,,0,,Europe/London,1
+490000069EA,,East Putney (Stop EA),,51.4600260,-0.2122970,,,0,,Europe/London,1
+490000069EB,,East Putney (Stop EB),,51.4590450,-0.2099310,,,0,,Europe/London,1
+490000084L,,Fulham Broadway Station (Stop L),,51.4802890,-0.1944530,,,0,,Europe/London,1
+490000084M,,Fulham Broadway Station (Stop M),,51.4800220,-0.1946800,,,0,,Europe/London,1
+490000086A,,Gloucester Road (Stop GR),,51.4942590,-0.1825490,,,0,,Europe/London,1
+490000086B,,Gloucester Road (Stop GS),,51.4940950,-0.1822250,,,0,,Europe/London,1
+490000110A,,High Street Kensington (Stop A),,51.5009840,-0.1933910,,,0,,Europe/London,1
+490000110B,,High Street Kensington (Stop B),,51.5007170,-0.1942220,,,0,,Europe/London,1
+490000110E,,High Street Kensington (Stop E),,51.5013240,-0.1922100,,,0,,Europe/London,1
+490000110F,,High Street Kensington (Stop F),,51.5013500,-0.1919780,,,0,,Europe/London,1
+490000110R,,High Street Kensington (Stop R),,51.5009540,-0.1931040,,,0,,Europe/London,1
+490000119A,,Grosvenor Place  Hyde Park Corner (Stop 12),,51.5008770,-0.1502710,,,0,,Europe/London,1
+490000119F,,Hyde Park Corner (Stop F),,51.5020900,-0.1506540,,,0,,Europe/London,1
+490000119K,,Hyde Park Corner (Stop K),,51.5013470,-0.1510150,,,0,,Europe/London,1
+490000119L,,Hyde Park Corner (Stop 13),,51.5027850,-0.1531040,,,0,,Europe/London,1
+490000119M,,Hyde Park Corner (Stop M),,51.5027500,-0.1532490,,,0,,Europe/London,1
+490000119N,,Hyde Park Corner (Stop N),,51.5027080,-0.1534240,,,0,,Europe/London,1
+490000119P,,Hyde Park Corner (Stop P),,51.5026050,-0.1537310,,,0,,Europe/London,1
+490000119R,,Hyde Park Corner (Stop R),,51.5028920,-0.1541230,,,0,,Europe/London,1
+490000119S,,Hyde Park Corner (Stop S),,51.5029680,-0.1538890,,,0,,Europe/London,1
+490000119T,,Hyde Park Corner (Stop T),,51.5030250,-0.1534830,,,0,,Europe/London,1
+490000119W,,Hyde Park Corner (Stop W),,51.5030440,-0.1531370,,,0,,Europe/London,1
+490000130K1,,Knightsbridge Station (Stop KJ),,51.5009000,-0.1601830,,,0,,Europe/London,1
+490000130K2,,Sloane Street  Knightsbridge Station (Stop KK),,51.5005570,-0.1598770,,,0,,Europe/London,1
+490000130KC,,Knightsbridge Station  Harrods (Stop KC),,51.5003590,-0.1623660,,,0,,Europe/London,1
+490000130KD,,Knightsbridge Station (Stop KD),,51.5007360,-0.1623070,,,0,,Europe/London,1
+490000130KE,,Knightsbridge Station  Harrods (Stop KE),,51.5016290,-0.1618820,,,0,,Europe/London,1
+490000172C,,Oval (Stop C),,51.4823950,-0.1127220,,,0,,Europe/London,1
+490000172D,,Oval (Stop D),,51.4821240,-0.1126620,,,0,,Europe/London,1
+490000180A,,Pimlico (Stop A),,51.4899830,-0.1323890,,,0,,Europe/London,1
+490000180D,,Pimlico (Stop D),,51.4903910,-0.1330490,,,0,,Europe/London,1
+490000180H,,Pimlico (Stop H),,51.4891430,-0.1333160,,,0,,Europe/London,1
+490000180J,,Pimlico (Stop J),,51.4889560,-0.1332950,,,0,,Europe/London,1
+490000184Y,,Putney Bridge (Stop FB),,51.4681660,-0.2089990,,,0,,Europe/London,1
+490000184Z,,Putney Bridge (Stop FC),,51.4679180,-0.2092820,,,0,,Europe/London,1
+490000206D,,Sloane Square (Stop D),,51.4932630,-0.1560680,,,0,,Europe/London,1
+490000206E,,Cadogan Gardens Sloane Square (Stop E),,51.4920230,-0.1589840,,,0,,Europe/London,1
+490000206H,,Sloane Square (Stop H),,51.4922600,-0.1570160,,,0,,Europe/London,1
+490000206K,,Sloane Square (Stop K),,51.4914510,-0.1574660,,,0,,Europe/London,1
+490000206M,,Sloane Square Station  Lower Sloane Street (Stop M),,51.4916650,-0.1572990,,,0,,Europe/London,1
+490000206N,,Sloane Square (Stop B),,51.4926680,-0.1583970,,,0,,Europe/London,1
+490000212A,,Pelham Street (Stop A),,51.4936710,-0.1713790,,,0,,Europe/London,1
+490000212E,,South Kensington (Stop E),,51.4944650,-0.1747910,,,0,,Europe/London,1
+490000212E1,,South Kensington (Stop D),,51.4941670,-0.1754360,,,0,,Europe/London,1
+490000212S,,South Kensington (Stop S),,51.4945070,-0.1745580,,,0,,Europe/London,1
+490000212S1,,South Kensington (Stop T),,51.4944230,-0.1745620,,,0,,Europe/London,1
+490000223A,,South Lambeth Road  Stockwell Station (Stop A),,51.4736750,-0.1224990,,,0,,Europe/London,1
+490000223B,,South Lambeth Road  Stockwell Station (Stop B),,51.4738810,-0.1223610,,,0,,Europe/London,1
+490000223F,,Clapham Road  Stockwell Station (Stop F),,51.4719390,-0.1230310,,,0,,Europe/London,1
+490000223G,,Stockwell Station (Stop G),,51.4716990,-0.1232720,,,0,,Europe/London,1
+490000223M,,Clapham Road  Stockwell Station (Stop M),,51.4718090,-0.1229220,,,0,,Europe/London,1
+490000223R,,Stockwell Gardens (Stop R),,51.4716420,-0.1218050,,,0,,Europe/London,1
+490000248G,,Victoria (Stop G),,51.4965360,-0.1434590,,,0,,Europe/London,1
+490000248H,,Victoria (Stop J),,51.4956630,-0.1430050,,,0,,Europe/London,1
+490000248J,,Victoria (Stop Z1),,51.4948310,-0.1425630,,,0,,Europe/London,1
+490000248N2,,Victoria Stn  Grosvenor Gdns (Stop S),,51.4964450,-0.1451050,,,0,,Europe/London,1
+490000248S,,Victoria (Stop U),,51.4960020,-0.1422420,,,0,,Europe/London,1
+490000248S2,,Victoria (Stop Z12),,51.4947780,-0.1460660,,,0,,Europe/London,1
+490000248UA,,Victoria (Stop 11),,51.4952700,-0.1459740,,,0,,Europe/London,1
+490000248YZ,,Victoria,,51.4962200,-0.1435010,,,0,,Europe/London,1
+490000248Z,,Victoria,,51.4960860,-0.1445870,,,0,,Europe/London,1
+490000248ZZ,,Victoria (Stop H),,51.4958460,-0.1432130,,,0,,Europe/London,1
+490000260O,,West Brompton Station (Stop O),,51.4877930,-0.1946320,,,0,,Europe/London,1
+490000260P,,West Brompton Station (Stop P),,51.4875370,-0.1956360,,,0,,Europe/London,1
+490000265A,,West Kensington (Stop S),,51.4905660,-0.2066090,,,0,,Europe/London,1
+490000265B,,West Kensington (Stop T),,51.4899180,-0.2064610,,,0,,Europe/London,1
+490000284FQ,,Lambrook Terrace (Stop FQ),,51.4760480,-0.2152710,,,0,,Europe/London,1
+490000286Z,,Nelson's Row (Stop B),,51.4626240,-0.1356210,,,0,,Europe/London,1
+490000288Z,,Omnibus Clapham,,51.4636150,-0.1419440,,,0,,Europe/London,1
+490000450Z,,Stockwell Station  Clapham Road,,51.4714660,-0.1232090,,,0,,Europe/London,1
+490000807Z,,St John Bosco College,,51.4750250,-0.1721390,,,0,,Europe/London,1
+490001016A,,Battersea Park Station (Stop A),,51.4771040,-0.1471430,,,0,,Europe/London,1
+490001016B,,Battersea Park Station (Stop B),,51.4767800,-0.1471130,,,0,,Europe/London,1
+490001016C,,Battersea Park Station (Stop C),,51.4769100,-0.1482590,,,0,,Europe/London,1
+490001016D,,Battersea Park Station (Stop D),,51.4769480,-0.1484310,,,0,,Europe/London,1
+490001069C,,Clapham Junction Station (Stop C),,51.4630130,-0.1704590,,,0,,Europe/London,1
+490001069D,,Clapham Junction Station (Stop D),,51.4636190,-0.1683910,,,0,,Europe/London,1
+490001069M,,Clapham Junction Station (Stop M),,51.4632610,-0.1685200,,,0,,Europe/London,1
+490001231B,,Putney (Stop B),,51.4614720,-0.2171210,,,0,,Europe/London,1
+490001231D,,Putney (Stop D),,51.4612920,-0.2165660,,,0,,Europe/London,1
+490001231E,,Putney (Stop E),,51.4611430,-0.2166010,,,0,,Europe/London,1
+490001231F,,Putney (Stop F),,51.4606090,-0.2153260,,,0,,Europe/London,1
+490001231G,,Putney (Stop G),,51.4605830,-0.2164360,,,0,,Europe/London,1
+490001231H,,Putney (Stop H),,51.4601900,-0.2172140,,,0,,Europe/London,1
+490001231N,,St John's Avenue (Stop C),,51.4600030,-0.2174950,,,0,,Europe/London,1
+490001234N,,Queenstown Road Battersea (Stop K),,51.4743230,-0.1469960,,,0,,Europe/London,1
+490001234S,,Queenstown Road Battersea (Stop L),,51.4741330,-0.1473060,,,0,,Europe/London,1
+490001310A,,Wandsworth Road Station (Stop L),,51.4702150,-0.1397430,,,0,,Europe/London,1
+490001310B,,Westbury Street (Stop C),,51.4698560,-0.1403090,,,0,,Europe/London,1
+490001311E,,Wandsworth Town (Stop AA),,51.4610900,-0.1875230,,,0,,Europe/London,1
+490001311W,,Wandsworth Town (Stop BB),,51.4603390,-0.1882010,,,0,,Europe/London,1
+4900013855N1,,Turpentine Lane (Stop K),,51.4890860,-0.1466280,,,0,,Europe/London,1
+4900019445,,Binfield Road  Stockwell Station (Stop C),,51.4725880,-0.1231200,,,0,,Europe/London,1
+490002139ZZ,,Victoria Street  Victoria,,51.4962580,-0.1441760,,,0,,Europe/London,1
+490003045X,,Wandsworth Police Station (Stop X),,51.4573060,-0.1957770,,,0,,Europe/London,1
+490003059D,,Parliament Square (Stop M),,51.4979550,-0.1259110,,,0,,Europe/London,1
+490003059E,,Abingdon Street (Stop L),,51.4975890,-0.1255800,,,0,,Europe/London,1
+490003059N,,Abingdon Street (Stop N),,51.4971810,-0.1257550,,,0,,Europe/London,1
+490003070N,,Clapham Park Road (Stop N),,51.4606900,-0.1292800,,,0,,Europe/London,1
+490003070S,,Clapham Park Road (Stop J),,51.4605060,-0.1290430,,,0,,Europe/London,1
+490003090S,,Imperial Road (Stop Y),,51.4740560,-0.1831510,,,0,,Europe/London,1
+490003106E,,Warwick Gardens (Stop W),,51.4974480,-0.2037740,,,0,,Europe/London,1
+490003106W,,Warwick Gardens (Stop Z),,51.4975280,-0.2031510,,,0,,Europe/London,1
+490003152E,,Albert Bridge (Stop QE),,51.4831620,-0.1686450,,,0,,Europe/London,1
+490003152W,,Albert Bridge (Stop QD),,51.4834480,-0.1661140,,,0,,Europe/London,1
+490003164N,,Albert Square (Stop W),,51.4762610,-0.1184620,,,0,,Europe/London,1
+490003164S,,Albert Square (Stop J),,51.4769480,-0.1173970,,,0,,Europe/London,1
+490003179S,,Alderney Street (Stop M),,51.4879230,-0.1395890,,,0,,Europe/London,1
+490003200N,,Alexander Court (Stop G),,51.4574930,-0.1815190,,,0,,Europe/London,1
+490003259E,,East Hill  Alma Road (Stop A),,51.4577060,-0.1854980,,,0,,Europe/London,1
+490003359A,,Archbishop Tenison's School (Stop A),,51.4830320,-0.1155190,,,0,,Europe/London,1
+490003359B,,Archbishop Tenison's School (Stop B),,51.4832080,-0.1163040,,,0,,Europe/London,1
+490003383D,,Armoury Way (Stop D),,51.4583020,-0.1966600,,,0,,Europe/London,1
+490003383E,,Armoury Way (Stop E),,51.4583090,-0.1965870,,,0,,Europe/London,1
+490003384SA,,Westminster City Hall (Stop SA),,51.4974250,-0.1366080,,,0,,Europe/London,1
+490003384SB,,Westminster City Hall (Stop SB),,51.4971500,-0.1374260,,,0,,Europe/London,1
+490003543E,,Badric Court (Stop LM),,51.4700130,-0.1747440,,,0,,Europe/London,1
+490003543LL,,Badric Court (Stop LL),,51.4698410,-0.1741460,,,0,,Europe/London,1
+490003559S,,Ponsonby Terrace (Stop S),,51.4896740,-0.1304710,,,0,,Europe/London,1
+490003682E,,Beaufort Street (Stop BB),,51.4824490,-0.1724190,,,0,,Europe/London,1
+490003682W,,Beaufort Street (Stop BC),,51.4823460,-0.1721920,,,0,,Europe/London,1
+490003683N,,Battersea Bridge (Stop BL),,51.4797710,-0.1714460,,,0,,Europe/London,1
+490003683S,,Battersea Bridge  Hester Road (Stop BD),,51.4796560,-0.1710470,,,0,,Europe/London,1
+490003685E,,Harris Academy Battersea (Stop LT),,51.4740370,-0.1589160,,,0,,Europe/London,1
+490003685W,,Harris Academy Battersea (Stop LA),,51.4732090,-0.1612540,,,0,,Europe/London,1
+490003686E,,Battersea Dogs And Cats Home (Stop J),,51.4781950,-0.1450100,,,0,,Europe/London,1
+490003686S,,Battersea Dogs And Cats Home (Stop H),,51.4783860,-0.1445560,,,0,,Europe/London,1
+490003686W,,Battersea Park Station (Stop P),,51.4778750,-0.1463050,,,0,,Europe/London,1
+490003687E,,Battersea High St Clapham Jct (Stop LN),,51.4700430,-0.1727270,,,0,,Europe/London,1
+490003687N1,,Battersea High St Clapham Jct (Stop LK),,51.4695470,-0.1715230,,,0,,Europe/London,1
+490003687W2,,Battersea High St Clapham Jct (Stop LE),,51.4704320,-0.1705660,,,0,,Europe/London,1
+490003688E,,Battersea High Street (Stop F),,51.4744260,-0.1764690,,,0,,Europe/London,1
+490003688W,,Battersea High Street (Stop J),,51.4743880,-0.1762540,,,0,,Europe/London,1
+490003690E,,Battersea Park Library (Stop LY),,51.4744570,-0.1566100,,,0,,Europe/London,1
+490003690W,,Battersea Park Library (Stop LC),,51.4744190,-0.1552290,,,0,,Europe/London,1
+490003691N,,Ethelburga Street (Stop BH),,51.4767490,-0.1684990,,,0,,Europe/London,1
+490003726E,,Fulham Road  Beaufort Street (Stop HH),,51.4875600,-0.1785230,,,0,,Europe/London,1
+490003726W2,,Fulham Road  Beaufort Street (Stop HR),,51.4872860,-0.1786780,,,0,,Europe/London,1
+490003796D,,Bedford Road (Stop D),,51.4596520,-0.1297110,,,0,,Europe/London,1
+490003796E,,Bedford Road (Stop E),,51.4597170,-0.1304140,,,0,,Europe/London,1
+490003837N,,Belgrave Road (Stop S),,51.4904860,-0.1386340,,,0,,Europe/London,1
+490003837S,,Belgrave Road (Stop R),,51.4907610,-0.1388110,,,0,,Europe/London,1
+490003838X,,Belgravia Police Station (Stop X),,51.4916730,-0.1492170,,,0,,Europe/London,1
+490004044S,,Bishops Park Road (Stop FN),,51.4742770,-0.2134820,,,0,,Europe/London,1
+490004133E,,Bolingbroke Grove (Stop P),,51.4597240,-0.1718580,,,0,,Europe/London,1
+490004133W,,Bolingbroke Grove (Stop SC),,51.4600830,-0.1705480,,,0,,Europe/London,1
+490004138E,,Bolton Gardens  Brompton Library (Stop GA),,51.4903980,-0.1869090,,,0,,Europe/London,1
+490004138W,,Bolton Gardens  Brompton Library (Stop GH),,51.4904020,-0.1865350,,,0,,Europe/London,1
+490004174E,,Bothwell Street (Stop HC),,51.4835320,-0.2183920,,,0,,Europe/London,1
+490004326N,,Bridgend Road (Stop TD),,51.4635160,-0.1866500,,,0,,Europe/London,1
+490004326S,,Bridgend Road (Stop TM),,51.4633450,-0.1861530,,,0,,Europe/London,1
+490004436C,,Victoria and Albert Museum (Stop M),,51.4962270,-0.1708590,,,0,,Europe/London,1
+490004436F,,Victoria and Albert Museum (Stop N),,51.4963460,-0.1698170,,,0,,Europe/London,1
+490004437E,,Brompton Square (Stop KW),,51.4977720,-0.1672820,,,0,,Europe/London,1
+490004437W,,Brompton Square (Stop KU),,51.4974330,-0.1674680,,,0,,Europe/London,1
+490004455BA,,Brook Green (Stop F),,51.4935150,-0.2159290,,,0,,Europe/London,1
+490004455BB,,Brook Green (Stop H),,51.4937100,-0.2158350,,,0,,Europe/London,1
+490004492N,,Broomhill Road,,51.4550250,-0.1971480,,,0,,Europe/London,1
+490004492S,,Broomhill Road,,51.4536060,-0.1970750,,,0,,Europe/London,1
+490004538W,,Brussels Road (Stop SA),,51.4604720,-0.1753400,,,0,,Europe/London,1
+490004555P,,Buckingham Palace Road  Bressenden Place (Stop P),,51.4973300,-0.1443630,,,0,,Europe/London,1
+490004568E,,Bullen Street (Stop LQ),,51.4711340,-0.1693280,,,0,,Europe/London,1
+490004568W,,Bullen Street (Stop LD),,51.4715040,-0.1678160,,,0,,Europe/London,1
+490004628JA,,Putney Arts Theatre (Stop J),,51.4614720,-0.2188480,,,0,,Europe/London,1
+490004809KD,,Carlyle Square Chelsea (Stop KD),,51.4864310,-0.1712940,,,0,,Europe/London,1
+490004912N,,Cedars Road  Clapham Common North Side (Stop Q),,51.4620590,-0.1491910,,,0,,Europe/London,1
+490004912S,,Cedars Road  Clapham Common North Side (Stop R),,51.4622990,-0.1491240,,,0,,Europe/London,1
+490004913E,,Cedars Road (Stop V),,51.4613490,-0.1499400,,,0,,Europe/London,1
+490004913W,,Cedars Road (Stop P),,51.4612690,-0.1481720,,,0,,Europe/London,1
+490004991N,,Charing Cross Hospital (Stop HT),,51.4871140,-0.2215080,,,0,,Europe/London,1
+490004991S,,Charing Cross Hospital (Stop HA),,51.4872860,-0.2209970,,,0,,Europe/London,1
+490005045E,,Chatfield Road (Stop TP),,51.4652370,-0.1805060,,,0,,Europe/London,1
+490005045W,,Chatfield Road (Stop TH),,51.4646720,-0.1811330,,,0,,Europe/London,1
+490005062HA,,Chelsea & Westminster Hospital (Stop HA),,51.4853820,-0.1817930,,,0,,Europe/London,1
+490005062HF,,Chelsea & Westminster Hospital (Stop HF),,51.4851490,-0.1824650,,,0,,Europe/London,1
+490005063N,,Royal Hospital Chelsea (Stop T),,51.4883730,-0.1538740,,,0,,Europe/London,1
+490005064N,,Battersea Park  Chelsea Gate (Stop CJ),,51.4832230,-0.1496600,,,0,,Europe/London,1
+490005064S,,Battersea Park  Chelsea Gate (Stop CC),,51.4826160,-0.1493390,,,0,,Europe/London,1
+490005065N,,Chelsea Bridge Road (Stop P),,51.4899330,-0.1554530,,,0,,Europe/London,1
+490005069E,,Chelsea Football Club (Stop V),,51.4801860,-0.1899930,,,0,,Europe/London,1
+490005069W,,Chelsea Football Club (Stop W),,51.4800680,-0.1899260,,,0,,Europe/London,1
+490005070N,,Imperial Wharf Station  Imperial Road (Stop J),,51.4732400,-0.1838600,,,0,,Europe/London,1
+490005070W,,Bagleys Lane (Stop B),,51.4726560,-0.1840700,,,0,,Europe/London,1
+490005071E,,Imperial Wharf Station (Stop K),,51.4755440,-0.1830630,,,0,,Europe/London,1
+490005071S,,Imperial Whf Stn Chelsea Hrbr (Stop A),,51.4760090,-0.1834330,,,0,,Europe/London,1
+490005073KC,,Chelsea Old Town Hall (Stop KC),,51.4883120,-0.1666100,,,0,,Europe/London,1
+490005073KH,,Sydney Street  Chelsea Old Town Hall (Stop KH),,51.4878460,-0.1690920,,,0,,Europe/London,1
+490005073KJ,,Sydney Street  Chelsea Old Town Hall (Stop KJ),,51.4878880,-0.1689460,,,0,,Europe/London,1
+490005073KL,,Chelsea Old Town Hall (Stop KL),,51.4877850,-0.1680570,,,0,,Europe/London,1
+490005074S,,Chelsea Park Gardens (Stop QS),,51.4855460,-0.1767460,,,0,,Europe/London,1
+490005075E,,Chelsea Village (Stop U),,51.4803390,-0.1925070,,,0,,Europe/London,1
+490005076E,,Hobury Street  Worlds End (Stop QH),,51.4824450,-0.1791300,,,0,,Europe/London,1
+490005076S,,Limerston Street (Stop QX),,51.4831010,-0.1780240,,,0,,Europe/London,1
+490005076W,,Edith Grove  Worlds End (Stop QR),,51.4822650,-0.1792240,,,0,,Europe/London,1
+490005087W,,Chelsea Worlds End (Stand QZ),,51.4826390,-0.1782730,,,0,,Europe/London,1
+490005138N,,Wilton Street (Stop U),,51.4993820,-0.1482570,,,0,,Europe/London,1
+490005152N,,Cheyne Walk (Stop BM),,51.4825710,-0.1739550,,,0,,Europe/London,1
+490005152S,,Cheyne Walk (Stop BA),,51.4827420,-0.1739190,,,0,,Europe/London,1
+490005156W,,Irene Road (Stop GM),,51.4735300,-0.1970100,,,0,,Europe/London,1
+490005189E,,Irene Road (Stop GA),,51.4740680,-0.1962970,,,0,,Europe/London,1
+490005328V,,Clapham Common Old Town (Stop W),,51.4630510,-0.1426730,,,0,,Europe/London,1
+490005328Y,,Clapham Common Old Town,,51.4633180,-0.1423740,,,0,,Europe/London,1
+490005330W,,Sisters Avenue,,51.4612810,-0.1585800,,,0,,Europe/London,1
+490005331E,,Clapham Junction Station  The Falcon (Stop E),,51.4643140,-0.1681040,,,0,,Europe/London,1
+490005332H,,Clapham Junction Station (Stop H),,51.4640960,-0.1678250,,,0,,Europe/London,1
+490005332P,,Clapham Junction Station  The Falcon (Stop P),,51.4632230,-0.1678020,,,0,,Europe/London,1
+490005332T,,Clapham Junction Station  The Falcon (Stop T),,51.4630850,-0.1676640,,,0,,Europe/London,1
+490005333V,,Clapham Junction  The Northcote (Stop V),,51.4617610,-0.1676160,,,0,,Europe/London,1
+490005333X,,Northcote Road (Stop X),,51.4608040,-0.1678410,,,0,,Europe/London,1
+490005333Y,,Clapham Junction  The Northcote (Stop Y),,51.4612810,-0.1672320,,,0,,Europe/London,1
+490005333Z,,Northcote Road (Stop Z),,51.4607660,-0.1660720,,,0,,Europe/London,1
+490005367N,,Claverton St  Churchill Gdns (Stop A),,51.4860230,-0.1377220,,,0,,Europe/London,1
+490005444N,,Bishops Park Road (Stop FK),,51.4748920,-0.2143510,,,0,,Europe/London,1
+490005528Q,,Pembroke Place (Stop Q),,51.4979630,-0.1980200,,,0,,Europe/London,1
+490005528V,,Pembroke Place (Stop V),,51.4986110,-0.1982530,,,0,,Europe/London,1
+490005528X,,The Design Museum (Stop X),,51.4987720,-0.1992550,,,0,,Europe/London,1
+490005528Y,,The Design Museum (Stop Y),,51.4985540,-0.2007910,,,0,,Europe/London,1
+490005615N,,Cornwall Gardens (Stop GW),,51.4963260,-0.1834470,,,0,,Europe/London,1
+490005615S,,Cromwell Road (Stop GZ),,51.4956510,-0.1829690,,,0,,Europe/London,1
+490005678N,,Covent Garden Market East Side (Stop K),,51.4823420,-0.1274870,,,0,,Europe/London,1
+490005678X,,Covent Garden Market East Side (Stop X),,51.4834750,-0.1269510,,,0,,Europe/London,1
+490005754E,,Cresswell Gardens (Stop GB),,51.4908600,-0.1835490,,,0,,Europe/London,1
+490005754W,,Cresswell Gardens (Stop GF),,51.4908260,-0.1843140,,,0,,Europe/London,1
+490005777E,,Riverlight Quay (Stop B),,51.4816590,-0.1375390,,,0,,Europe/London,1
+490005777S,,Riverlight Quay (Stop E),,51.4816590,-0.1370780,,,0,,Europe/London,1
+490005797N,,Natural History Museum Cromwell Road (Stop GT),,51.4949990,-0.1790910,,,0,,Europe/London,1
+490005797S,,Natural History Museum Cromwell Road (Stop GM),,51.4959680,-0.1789660,,,0,,Europe/London,1
+490005919N,,Sacred Heart House (Stop N),,51.4643170,-0.1499350,,,0,,Europe/London,1
+490005919S,,Sacred Heart House (Stop W),,51.4635850,-0.1495470,,,0,,Europe/London,1
+490005964N,,Darley Road,,51.4541820,-0.1641190,,,0,,Europe/London,1
+490005964S,,Darley Road,,51.4546320,-0.1642740,,,0,,Europe/London,1
+490006007N,,Horseferry Road (Stop NK),,51.4957160,-0.1254120,,,0,,Europe/London,1
+490006007S1,,Horseferry Road (Stop NB),,51.4955140,-0.1251750,,,0,,Europe/London,1
+490006017W,,Condell Road (Stop R),,51.4746280,-0.1360680,,,0,,Europe/London,1
+490006048E,,Deodar Road (Stop V),,51.4626080,-0.2077620,,,0,,Europe/London,1
+490006048W,,Deodar Road (Stop W),,51.4625240,-0.2087010,,,0,,Europe/London,1
+490006134N,,Dorset Road (Stop Y),,51.4779240,-0.1166940,,,0,,Europe/London,1
+490006134S,,Dorset Road (Stop H),,51.4784620,-0.1158800,,,0,,Europe/London,1
+490006224G,,Duke of York Square (Stop G),,51.4911270,-0.1604750,,,0,,Europe/London,1
+490006224KP,,Duke of York Square (Stop KP),,51.4908640,-0.1612640,,,0,,Europe/London,1
+490006274W,,Durham Street,,51.4863620,-0.1179460,,,0,,Europe/London,1
+490006304W,,Empress State Bldg W Brompton (Stop BB),,51.4862520,-0.1986250,,,0,,Europe/London,1
+490006305G,,Earls Court Road (Stop G),,51.4947740,-0.1948320,,,0,,Europe/London,1
+490006305H,,Cromwell Road (Stop H),,51.4951480,-0.1958110,,,0,,Europe/London,1
+490006305J,,Cromwell Road  Earls Court Rd (Stop J),,51.4946370,-0.1940880,,,0,,Europe/London,1
+490006394S,,Eaton Square (Stop J),,51.4948620,-0.1526460,,,0,,Europe/London,1
+490006394W,,Eaton Square (Stop F),,51.4947400,-0.1533140,,,0,,Europe/London,1
+490006399E,,Ebury Bridge Road (Stop R),,51.4908910,-0.1510930,,,0,,Europe/London,1
+490006399W,,Pimlico Road  Ebury Bridge Road (Stop Q),,51.4907380,-0.1516030,,,0,,Europe/London,1
+490006400N,,Ebury Bridge,,51.4903410,-0.1486950,,,0,,Europe/London,1
+490006401E,,Ebury Street,,51.4931300,-0.1505560,,,0,,Europe/London,1
+490006403E,,Eccles Road,,51.4610940,-0.1627480,,,0,,Europe/London,1
+490006403W,,Eccles Road,,51.4609260,-0.1631000,,,0,,Europe/London,1
+490006404W,,Eccleston Bridge (Stop T),,51.4935110,-0.1473280,,,0,,Europe/London,1
+490006437HB,,Edith Grove (Stop HB),,51.4843790,-0.1836910,,,0,,Europe/London,1
+490006437HE,,Edith Grove (Stop HE),,51.4837910,-0.1848670,,,0,,Europe/London,1
+490006514N,,Old Church Street (Stop HJ),,51.4891050,-0.1761280,,,0,,Europe/London,1
+490006514S,,Old Church Street (Stop HQ),,51.4886970,-0.1764610,,,0,,Europe/London,1
+490006515E,,United States Embassy (Stop C),,51.4832840,-0.1336270,,,0,,Europe/London,1
+490006515S,,United States Embassy (Stop D),,51.4827120,-0.1336800,,,0,,Europe/London,1
+490006520N,,Elms Road  Windmill On The Common (Stop C),,51.4571300,-0.1435460,,,0,,Europe/London,1
+490006520S,,Elms Road  Windmill On The Common (Stop J),,51.4565850,-0.1438270,,,0,,Europe/London,1
+490006552N,,Imperial College  Elvaston Pl (Stop RV),,51.4981120,-0.1797600,,,0,,Europe/London,1
+490006691W,,Exhibition Road (Stop RB),,51.5017590,-0.1732890,,,0,,Europe/London,1
+490006722S,,Falcon Grove,,51.4680480,-0.1705890,,,0,,Europe/London,1
+490006768E,,Wandsworth Park Riverside Quarter Pier (Stop CC),,51.4609570,-0.2015930,,,0,,Europe/London,1
+490006768W,,Wandsworth Park Riverside Quarter Pier (Stop L),,51.4611510,-0.2029820,,,0,,Europe/London,1
+490006796S,,Fentiman Road (Stop S),,51.4795000,-0.1150310,,,0,,Europe/London,1
+490006796T,,Fentiman Road (Stop T),,51.4801410,-0.1140830,,,0,,Europe/London,1
+490006825E,,Festing Road (Stop F),,51.4682960,-0.2233920,,,0,,Europe/London,1
+490006825W,,Festing Road (Stop J),,51.4679760,-0.2225690,,,0,,Europe/London,1
+490006845N,,Kingwood Road (Stop FL),,51.4768980,-0.2160870,,,0,,Europe/London,1
+490006876N,,Chelsea Physic Garden,,51.4846120,-0.1634600,,,0,,Europe/London,1
+490006876S,,Chelsea Physic Garden,,51.4845090,-0.1633340,,,0,,Europe/London,1
+490006945N,,Forthbridge Road (Stop U),,51.4613190,-0.1537700,,,0,,Europe/London,1
+490006945W,,Forthbridge Road (Stop X),,51.4612200,-0.1542780,,,0,,Europe/London,1
+490006956C,,Gloucester Road (Stop GK),,51.4950070,-0.1843060,,,0,,Europe/London,1
+490006956D,,Ashburn Gardens (Stop GV),,51.4947620,-0.1852230,,,0,,Europe/London,1
+490007044B,,Frogmore (Stop B),,51.4585800,-0.1985490,,,0,,Europe/London,1
+490007044C,,Frogmore (Stop C),,51.4587100,-0.1980400,,,0,,Europe/London,1
+490007050E,,Fulham Cross (Stop HD),,51.4827270,-0.2132390,,,0,,Europe/London,1
+490007050S,,Munster Road  Fulham Cross (Stop HH),,51.4821280,-0.2134500,,,0,,Europe/London,1
+490007050W,,Fulham Cross (Stop HE),,51.4829100,-0.2152480,,,0,,Europe/London,1
+490007051N,,Fulham High Street (Stop FJ),,51.4706730,-0.2111040,,,0,,Europe/London,1
+490007051S,,Fulham High St  New Kings Rd (Stop FU),,51.4702300,-0.2103720,,,0,,Europe/London,1
+490007053E,,Fulham Pools (Stop BL),,51.4838490,-0.2078660,,,0,,Europe/London,1
+490007054E,,Fulham Palace Road (Stop FP),,51.4719510,-0.2105930,,,0,,Europe/London,1
+490007054S,,Fulham Road (Stop FO),,51.4721070,-0.2114940,,,0,,Europe/London,1
+490007054W,,Fulham Palace Road (Stop FT),,51.4721150,-0.2101110,,,0,,Europe/London,1
+490007055HK,,Fulham Road  Chelsea & Westminster Hosp (Stop HK),,51.4844550,-0.1846390,,,0,,Europe/London,1
+490007055HL,,Fulham Road (Stop HL),,51.4838140,-0.1861480,,,0,,Europe/London,1
+490007057H,,Fulham Town Hall (Stop H),,51.4794460,-0.1951200,,,0,,Europe/London,1
+490007057R,,Fulham Town Hall (Stop R),,51.4793930,-0.1947190,,,0,,Europe/London,1
+490007057S,,Fulham Town Hall (Stop S),,51.4792480,-0.1945090,,,0,,Europe/London,1
+490007057T,,Fulham Town Hall (Stop T),,51.4789730,-0.1947500,,,0,,Europe/London,1
+490007237E,,Glenrosa Street (Stop H),,51.4707600,-0.1851820,,,0,,Europe/London,1
+490007237W,,Glenrosa Street (Stop C),,51.4713210,-0.1848570,,,0,,Europe/London,1
+490007281E,,Putney Bridge (Stop AP),,51.4684520,-0.2107580,,,0,,Europe/London,1
+490007281U,,Putney Bridge Stn Gonville St (Stop FD),,51.4682010,-0.2113010,,,0,,Europe/London,1
+490007342E,,Sunbury Lane (Stop G),,51.4756320,-0.1734690,,,0,,Europe/London,1
+4900074801,,Green Line Coach Station (Stop 1),,51.4933620,-0.1458640,,,0,,Europe/London,1
+49000748010,,Green Line Coach Station (Stop 10),,51.4928250,-0.1475570,,,0,,Europe/London,1
+4900074802,,Green Line Coach Station (Stop 2),,51.4931830,-0.1459870,,,0,,Europe/London,1
+4900074804,,Green Line Coach Station (Stop 4),,51.4927940,-0.1462620,,,0,,Europe/London,1
+4900074806,,Green Line Coach Station (Stop 6),,51.4937550,-0.1469290,,,0,,Europe/London,1
+4900074809,,Green Line Coach Station (Stop 9),,51.4931140,-0.1473580,,,0,,Europe/London,1
+490007492E,,Green Park  Constitution Hill (Stop E),,51.5039940,-0.1477670,,,0,,Europe/London,1
+490007530N,,Greyhound Road Barons Court (Stop HS),,51.4842570,-0.2198760,,,0,,Europe/London,1
+490007530S,,Greyhound Road Barons Court (Stop HB),,51.4857600,-0.2199620,,,0,,Europe/London,1
+490007544N1,,Victoria Station Oxford Tube (Stop 10A),,51.4967380,-0.1460150,,,0,,Europe/London,1
+490007544Q,,Grosvenor Gardens (Stop Q),,51.4969180,-0.1455330,,,0,,Europe/London,1
+490007550X,,Vauxhall Bridge  Millbank (Stop X),,51.4881970,-0.1286010,,,0,,Europe/London,1
+490007608N,,Gunter Grove (Stop HX),,51.4816860,-0.1841730,,,0,,Europe/London,1
+490007702Y,,Hammersmith Broadway (Stop N),,51.4899750,-0.2233700,,,0,,Europe/London,1
+490007702Z,,Hammersmith Broadway (Stop M),,51.4909550,-0.2233900,,,0,,Europe/London,1
+490007704QA,,Hammersmith Broadway (Stop Z4),,51.4929810,-0.2217690,,,0,,Europe/London,1
+490007709H,,Kensington Olympia Hammersmith Road (Stop V),,51.4946560,-0.2110730,,,0,,Europe/London,1
+490007709S,,Kensington Olympia (Stop P),,51.4944310,-0.2105190,,,0,,Europe/London,1
+490007754E,,Hannell Road (Stop HJ),,51.4815900,-0.2117850,,,0,,Europe/London,1
+490007754W,,Munster Road Fulham (Stop HK),,51.4813880,-0.2122540,,,0,,Europe/London,1
+490007806W,,Harleyford Road  Durham Street,,51.4849240,-0.1191140,,,0,,Europe/London,1
+490007839E,,Harrington Road (Stop GN),,51.4942630,-0.1786160,,,0,,Europe/London,1
+490007841KA,,Harrods (Stop KA),,51.4994620,-0.1636410,,,0,,Europe/London,1
+490007841KB,,Harrods (Stop KB),,51.4994090,-0.1642480,,,0,,Europe/London,1
+490007875C,,North End Road Walham Green (Stop C),,51.4803580,-0.2011190,,,0,,Europe/London,1
+490007998S,,Heathfield Road (Stop SW),,51.4525570,-0.1792690,,,0,,Europe/London,1
+490008093W,,Herndon Road (Stop SJ),,51.4571500,-0.1878520,,,0,,Europe/London,1
+490008280S,,Wallis Close (Stop M),,51.4661940,-0.1778480,,,0,,Europe/London,1
+490008286N,,Holland Gardens (Stop N),,51.4988210,-0.2089790,,,0,,Europe/London,1
+490008287E,,Holland Road (Stop L),,51.4969750,-0.2051760,,,0,,Europe/London,1
+490008288H,,Holland St High St Kensington (Stop H),,51.5030980,-0.1916210,,,0,,Europe/London,1
+490008374N,,Horseferry Road Westminster (Stop NT),,51.4956440,-0.1292900,,,0,,Europe/London,1
+490008374S,,Horseferry Road Westminster (Stop NL),,51.4956970,-0.1291440,,,0,,Europe/London,1
+490008380HC,,Hortensia Road (Stop HC),,51.4825060,-0.1864880,,,0,,Europe/London,1
+490008380HD,,Hortensia Road (Stop HD),,51.4822690,-0.1869150,,,0,,Europe/London,1
+490008418W,,Huguenot Place  Alma Road (Stop SH),,51.4578170,-0.1834930,,,0,,Europe/London,1
+490008433N,,Sullivan Court,,51.4702760,-0.1976850,,,0,,Europe/London,1
+490008433S,,Sullivan Court,,51.4702450,-0.1974990,,,0,,Europe/London,1
+490008434N,,Townmead Road (Stop TE),,51.4674720,-0.1901500,,,0,,Europe/London,1
+490008434S,,Townmead Road (Stop TL),,51.4670870,-0.1897050,,,0,,Europe/London,1
+490008435E,,Putney Bridge  Fulham High St (Stop FW),,51.4693720,-0.2095130,,,0,,Europe/London,1
+490008435W,,Putney Bridge  Fulham High St (Stop FX),,51.4693600,-0.2088940,,,0,,Europe/London,1
+490008486N,,Ingrave Street (Stop N),,51.4672580,-0.1705780,,,0,,Europe/London,1
+490008500S,,Irving Grove (Stop K),,51.4696390,-0.1198430,,,0,,Europe/London,1
+490008547E,,Fulham Broadway (Stop E),,51.4802170,-0.1984170,,,0,,Europe/London,1
+490008547F,,Fulham Broadway (Stop F),,51.4803850,-0.1976320,,,0,,Europe/London,1
+490008652A,,Kensington Station (Stop K),,51.4957310,-0.2097190,,,0,,Europe/London,1
+490008652C,,Kensington Station (Stop C),,51.4962390,-0.2063860,,,0,,Europe/London,1
+490008652E,,Kensington Station (Stop D),,51.4959910,-0.2078360,,,0,,Europe/London,1
+490008677N,,Fulham Cemetery (Stop HP),,51.4796100,-0.2176950,,,0,,Europe/London,1
+490008677S,,Fulham Cemetery (Stop HM),,51.4801220,-0.2176320,,,0,,Europe/London,1
+490008763KF,,Carlyle Square Chelsea (Stop KF),,51.4866290,-0.1711140,,,0,,Europe/London,1
+490008845S,,Kingwood Road (Stop FM),,51.4779510,-0.2167520,,,0,,Europe/London,1
+490008875KH,,Knightsbridge Station  Harrods (Stop KH),,51.5017740,-0.1631450,,,0,,Europe/London,1
+490008915N,,Lambeth Bridge (Stop ND),,51.4933970,-0.1254500,,,0,,Europe/London,1
+490008915S2,,Lambeth Bridge (Stop NC),,51.4937130,-0.1249760,,,0,,Europe/London,1
+490008916E,,Lambeth Bridge (Stop SN),,51.4935420,-0.1214390,,,0,,Europe/London,1
+490008916S,,Lambeth Bridge (Stop SE),,51.4932520,-0.1212920,,,0,,Europe/London,1
+490008917E1,,Lambeth Palace (Stop SC),,51.4947930,-0.1192550,,,0,,Europe/London,1
+490008917E2,,Lambeth Palace (Stop SB),,51.4947510,-0.1195590,,,0,,Europe/London,1
+490008917N,,Lambeth Palace (Stop SP),,51.4949530,-0.1208910,,,0,,Europe/London,1
+490008917S,,Lambeth Palace (Stop SA),,51.4952930,-0.1206900,,,0,,Europe/London,1
+490008917W,,Lambeth Palace (Stop SD),,51.4943960,-0.1199480,,,0,,Europe/London,1
+490008921W,,Lambourn Road (Stop E),,51.4669990,-0.1470910,,,0,,Europe/London,1
+490008969N,,Lansdowne Green (Stop H),,51.4759940,-0.1308430,,,0,,Europe/London,1
+490008969S,,Lansdowne Green (Stop M),,51.4766770,-0.1302820,,,0,,Europe/London,1
+490008970D,,Lansdowne Way (Stop D),,51.4741670,-0.1206500,,,0,,Europe/London,1
+490008970E,,Lansdowne Way (Stop E),,51.4741290,-0.1204220,,,0,,Europe/London,1
+490008978N1,,Larkhall Park (Stop G),,51.4748000,-0.1321880,,,0,,Europe/London,1
+490008978N2,,Larkhall Park (Stop N),,51.4745940,-0.1321100,,,0,,Europe/London,1
+490008990J,,Latymer Court (Stop G),,51.4933170,-0.2190190,,,0,,Europe/London,1
+490008990Q,,Latymer Court (Stop X),,51.4931180,-0.2189840,,,0,,Europe/London,1
+490008990S,,Hammersmith Road (Stop XC),,51.4930880,-0.2186250,,,0,,Europe/London,1
+490009007W,,Lavender Hill Police Station (Stop E),,51.4642830,-0.1630810,,,0,,Europe/London,1
+490009008K,,Lavender Hill Police Station (Stop K),,51.4642140,-0.1645660,,,0,,Europe/London,1
+490009155N,,Lillie Road (Stop HQ),,51.4826740,-0.2191750,,,0,,Europe/London,1
+490009155S,,Lillie Road (Stop HL),,51.4827160,-0.2185110,,,0,,Europe/London,1
+490009156V,,Lillie Road West Kensington (Stop BK),,51.4848710,-0.2022230,,,0,,Europe/London,1
+490009156X,,Lillie Road West Kensington (Stop BR),,51.4861370,-0.2027490,,,0,,Europe/London,1
+490009205E,,Lister Hospital (Stop CB),,51.4861830,-0.1503180,,,0,,Europe/London,1
+490009205N,,Lister Hospital (Stop CK),,51.4861530,-0.1505790,,,0,,Europe/London,1
+490009262E,,York Gardens (Stop D),,51.4685860,-0.1778100,,,0,,Europe/London,1
+490009263N,,Lombard Road (Stop E),,51.4706380,-0.1774980,,,0,,Europe/London,1
+490009263W,,Lombard Road (Stop K),,51.4701500,-0.1773010,,,0,,Europe/London,1
+490009370E,,Worlds End Health Centre (Stop GD),,51.4807170,-0.1848300,,,0,,Europe/London,1
+490009370W,,Worlds End Health Centre (Stop GH),,51.4805720,-0.1848070,,,0,,Europe/London,1
+490009375E,,Loughborough Street (Stop KL),,51.4871640,-0.1145570,,,0,,Europe/London,1
+490009375W,,Loughborough Street (Stop KN),,51.4867780,-0.1142410,,,0,,Europe/London,1
+490009492N,,Lytton Estate (Stop U),,51.4933430,-0.2089050,,,0,,Europe/London,1
+490009492S,,Lytton Estate (Stop R),,51.4926680,-0.2076930,,,0,,Europe/London,1
+490009543E,,Manfred Road (Stop ED),,51.4576910,-0.2062130,,,0,,Europe/London,1
+490009543W,,Manfred Road (Stop EC),,51.4579890,-0.2073380,,,0,,Europe/London,1
+490009631N,,Mapleton Road,,51.4538610,-0.1922000,,,0,,Europe/London,1
+490009631S,,Mapleton Road,,51.4539110,-0.1919820,,,0,,Europe/London,1
+490009638E1,,Marcilly Road (Stop H),,51.4583700,-0.1785330,,,0,,Europe/London,1
+490009638W1,,Marcilly Road (Stop SE),,51.4581380,-0.1802120,,,0,,Europe/London,1
+490009666KB,,Markham Street (Stop KB),,51.4890020,-0.1647380,,,0,,Europe/London,1
+490009666KN,,Markham Street (Stop KN),,51.4889530,-0.1652010,,,0,,Europe/London,1
+490009694E,,Marsham Street (Stop NS),,51.4950180,-0.1301080,,,0,,Europe/London,1
+490009694W,,Marsham Street (Stop NQ),,51.4947970,-0.1309390,,,0,,Europe/London,1
+490009836A,,Merton Road Wandsworth (Stop A),,51.4569590,-0.1994760,,,0,,Europe/London,1
+490009836W,,Merton Road Wandsworth (Stop Z),,51.4568210,-0.1998410,,,0,,Europe/London,1
+490009843F,,Clapham Junction Station  Falcon Road (Stop F),,51.4663240,-0.1695060,,,0,,Europe/London,1
+490009843G,,Clapham Junction Station  Falcon Road (Stop G),,51.4658130,-0.1688790,,,0,,Europe/London,1
+490009881E,,Millbank (Stop NH),,51.4948690,-0.1259220,,,0,,Europe/London,1
+490009881W,,Millbank (Stop NE),,51.4946900,-0.1264910,,,0,,Europe/London,1
+490009881Z,,Millbank,,51.4949070,-0.1275920,,,0,,Europe/London,1
+490010034W,,Morgans Walk (Stop BK),,51.4786110,-0.1713050,,,0,,Europe/London,1
+490010117E,,Mulgrave Road Fulham (Stop BM),,51.4847450,-0.2041580,,,0,,Europe/London,1
+490010117W,,Mulgrave Road Fulham (Stop BD),,51.4842220,-0.2057770,,,0,,Europe/London,1
+490010123E2,,Munster Road (Stop FR),,51.4739150,-0.2074630,,,0,,Europe/London,1
+490010123W2,,Munster Road (Stop FS),,51.4736750,-0.2075450,,,0,,Europe/London,1
+490010149J,,Holland Road  Kensington Olympia Station (Stop M),,51.4970860,-0.2066410,,,0,,Europe/London,1
+490010156N,,National Army Museum,,51.4867400,-0.1605080,,,0,,Europe/London,1
+490010156S,,National Army Museum,,51.4863780,-0.1608680,,,0,,Europe/London,1
+490010164K,,Neathouse Place (Stop K),,51.4944610,-0.1413390,,,0,,Europe/London,1
+490010164L,,Neathouse Place (Stop L),,51.4953580,-0.1418650,,,0,,Europe/London,1
+490010187K,,Nevern Place (Stop K),,51.4933090,-0.1944290,,,0,,Europe/London,1
+490010225N,,New Kings Road (Stop GP),,51.4756850,-0.1926910,,,0,,Europe/London,1
+490010225S,,New Kings Road (Stop GQ),,51.4755400,-0.1924950,,,0,,Europe/London,1
+490010260SC,,St James' Park Station (Stop SC),,51.4977260,-0.1346650,,,0,,Europe/London,1
+490010260SD,,St James's Park Station (Stop SD),,51.4975850,-0.1347720,,,0,,Europe/London,1
+490010357B,,North End Road (Stop E),,51.4952280,-0.2108770,,,0,,Europe/London,1
+490010357F,,North End Road (Stop J),,51.4947810,-0.2123640,,,0,,Europe/London,1
+490010358E,,North End Road West Kensington (Stop BN),,51.4858590,-0.2011330,,,0,,Europe/London,1
+490010358W,,North End Road West Kensington (Stop BC),,51.4856450,-0.2016740,,,0,,Europe/London,1
+490010359B,,North End Road Walham Green (Stop B),,51.4806400,-0.2003870,,,0,,Europe/London,1
+490010474N,,Oakbury Road (Stop TF),,51.4704550,-0.1911840,,,0,,Europe/London,1
+490010474S,,Oakbury Road (Stop TK),,51.4700200,-0.1909560,,,0,,Europe/London,1
+490010524E,,Battersea Arts Centre (Stop A),,51.4646490,-0.1613810,,,0,,Europe/London,1
+490010524S,,Battersea Arts Centre (Stop D),,51.4648090,-0.1594600,,,0,,Europe/London,1
+490010529B,,Earls Court Square (Stop B),,51.4891130,-0.1940620,,,0,,Europe/London,1
+490010534E,,Old Church Street Chelsea (Stop KE),,51.4855380,-0.1738080,,,0,,Europe/London,1
+490010536K,,York House Place  Kensington High St (Stop K),,51.5036770,-0.1918430,,,0,,Europe/London,1
+490010600E,,Onslow Gardens South Kensington (Stop GG),,51.4918210,-0.1789870,,,0,,Europe/London,1
+490010600W,,Onslow Gardens South Kensington (Stop GD),,51.4917560,-0.1788460,,,0,,Europe/London,1
+490010603N,,Onslow Square (Stop HT),,51.4922750,-0.1722420,,,0,,Europe/London,1
+490010603S,,Onslow Square (Stop HV),,51.4924090,-0.1721790,,,0,,Europe/London,1
+490010723N,,Page Street (Stop NP),,51.4938050,-0.1291060,,,0,,Europe/London,1
+490010723S,,Page Street (Stop NM),,51.4941710,-0.1289470,,,0,,Europe/London,1
+490010728E,,Palace Gate (Stop RH),,51.5019000,-0.1845220,,,0,,Europe/London,1
+490010728N,,Palace Gate (Bay RQ),,51.5014610,-0.1841500,,,0,,Europe/London,1
+490010728S,,Palace Gate (Stop RP),,51.5013850,-0.1839510,,,0,,Europe/London,1
+490010728W,,Palace Gate (Stop RE),,51.5014690,-0.1829250,,,0,,Europe/London,1
+490010771N,,Parkgate Road Battersea (Stop BJ),,51.4777790,-0.1694660,,,0,,Europe/London,1
+490010771S,,Parkgate Road Battersea (Stop BE),,51.4777680,-0.1692360,,,0,,Europe/London,1
+490010771W,,Westbridge Road  Parkgate Road (Stop BP),,51.4776540,-0.1704650,,,0,,Europe/London,1
+490010776E,,Park Hill (Stop H),,51.4594990,-0.1335320,,,0,,Europe/London,1
+490010776W,,Park Hill (Stop F),,51.4595870,-0.1339460,,,0,,Europe/London,1
+490010779E,,Collingham Road  Sainsbury's (Stop GJ),,51.4947740,-0.1873410,,,0,,Europe/London,1
+490010861T,,Parsons Green Lane Fulham Lib (Stop T),,51.4777300,-0.2015960,,,0,,Europe/London,1
+490010861V,,Parsons Green Lane Fulham Lib (Stop V),,51.4770090,-0.2022440,,,0,,Europe/London,1
+490010898F,,Pembroke Road (Stop F),,51.4946480,-0.2006140,,,0,,Europe/London,1
+490010921S,,Pensbury Street,,51.4708180,-0.1378650,,,0,,Europe/London,1
+490010921W,,Pensbury Street (Stop B),,51.4708330,-0.1378360,,,0,,Europe/London,1
+490010963E,,Petergate (Stop TN),,51.4636150,-0.1833630,,,0,,Europe/London,1
+490010963W,,Petergate (Stop TJ),,51.4632990,-0.1836500,,,0,,Europe/London,1
+490010979S,,Petworth Street (Stop BF),,51.4759250,-0.1675670,,,0,,Europe/London,1
+490010984T,,Phillimore Gardens (Stop T),,51.4998090,-0.1964630,,,0,,Europe/London,1
+490010984U,,Phillimore Gardens (Stop U),,51.4999540,-0.1967310,,,0,,Europe/London,1
+490011003E,,Grosvenor Road (Stop CP),,51.4852100,-0.1414710,,,0,,Europe/London,1
+490011004N,,Pimlico Academy & Library (Stop B),,51.4876400,-0.1384050,,,0,,Europe/London,1
+490011004N1,,Pimlico Academy & Library (Stop D),,51.4883460,-0.1380730,,,0,,Europe/London,1
+490011004W,,Pimlico Academy & Library (Stop L),,51.4882890,-0.1372260,,,0,,Europe/London,1
+490011065E,,Hope Street  Plantation Wharf Pier (Stop C),,51.4662440,-0.1793140,,,0,,Europe/London,1
+490011065W2,,Hope Street  Plantation Wharf Pier (Stop P),,51.4660800,-0.1791480,,,0,,Europe/London,1
+490011066E,,Plough Road (Stop C),,51.4613380,-0.1742980,,,0,,Europe/London,1
+490011066W,,Plough Road,,51.4620020,-0.1726590,,,0,,Europe/London,1
+490011094T,,Vauxhall Bridge Road (Stop T),,51.4895020,-0.1281880,,,0,,Europe/London,1
+490011094U,,Chelsea College of Arts (Stop U),,51.4901580,-0.1297890,,,0,,Europe/London,1
+490011097N,,Pont Street (Stop KM),,51.4967420,-0.1589240,,,0,,Europe/London,1
+490011097S,,Pont Street (Stop KL),,51.4976880,-0.1590150,,,0,,Europe/London,1
+490011163N,,Prairie Street (Stop R),,51.4706840,-0.1494330,,,0,,Europe/London,1
+490011163S,,Prairie Street (Stop U),,51.4697190,-0.1496160,,,0,,Europe/London,1
+490011192N,,Albert Embankment  Prince Consort House (Stop SL),,51.4904330,-0.1227190,,,0,,Europe/London,1
+490011193S,,Prince Consort Road (Stop RS),,51.5005230,-0.1798650,,,0,,Europe/London,1
+490011197N,,Prince Of Wales Drive (Stop LV),,51.4743770,-0.1663470,,,0,,Europe/London,1
+490011198E,,Prince Of Wales Gate (Stop RM),,51.5019870,-0.1710170,,,0,,Europe/London,1
+490011198W,,Prince Of Wales Gate (Stop RA),,51.5018420,-0.1692800,,,0,,Europe/London,1
+490011278N,,St Mary's Church  Putney Pier (Stop T),,51.4664920,-0.2135710,,,0,,Europe/London,1
+490011278R,,St Mary's Church  Putney Pier (Stop R),,51.4653320,-0.2142780,,,0,,Europe/London,1
+490011278S,,St Mary's Church  Putney Pier (Stop S),,51.4667210,-0.2133170,,,0,,Europe/London,1
+490011279N,,Brewhouse Lane (Stop N),,51.4644510,-0.2137220,,,0,,Europe/London,1
+490011279O,,Brewhouse Lane (Stop U),,51.4644240,-0.2131620,,,0,,Europe/London,1
+490011281N,,Putney Common (Stop D),,51.4681820,-0.2282620,,,0,,Europe/London,1
+490011281S,,Putney Common (Stop AP),,51.4679110,-0.2282010,,,0,,Europe/London,1
+490011286L,,Putney Exchange (Stop L),,51.4627150,-0.2160930,,,0,,Europe/London,1
+490011286M,,Putney Exchange (Stop M),,51.4644280,-0.2152060,,,0,,Europe/London,1
+490011288E,,Putney Methodist Church (Stop M),,51.4626580,-0.2222140,,,0,,Europe/London,1
+490011288W,,Putney Methodist Church (Stop S),,51.4625550,-0.2232980,,,0,,Europe/London,1
+490011289JB,,Putney Arts Theatre (Stop K),,51.4616010,-0.2208150,,,0,,Europe/London,1
+490011324C,,Queensberry Place (Stop C),,51.4940570,-0.1768530,,,0,,Europe/London,1
+490011324W,,Queensberry Place (Stop V),,51.4939080,-0.1772040,,,0,,Europe/London,1
+490011334E1,,Queens Gate (Stop RK),,51.5015070,-0.1812810,,,0,,Europe/London,1
+490011334E2,,Kensington Road  Royal Albert Hall (Stop RJ),,51.5016900,-0.1819510,,,0,,Europe/London,1
+490011334W,,Kensington Road  Royal Albert Hall (Stop RD),,51.5013730,-0.1808540,,,0,,Europe/London,1
+490011335N,,Queens Gate Terrace (Stop RN),,51.4981540,-0.1837340,,,0,,Europe/London,1
+490011343S,,Queens Gate Terrace (Stop RR),,51.4978560,-0.1836880,,,0,,Europe/London,1
+490011360E,,Queenstown Road (Stop X),,51.4662820,-0.1519290,,,0,,Europe/London,1
+490011360N,,Cedars Road Battersea (Stop G),,51.4663010,-0.1513670,,,0,,Europe/London,1
+490011360W,,Cedars Road Battersea (Stop F),,51.4663160,-0.1496240,,,0,,Europe/London,1
+490011361G,,Battersea Medical Centre (Stop G),,51.4761810,-0.1489510,,,0,,Europe/London,1
+490011382Z,,North End Road Market (Stop BH),,51.4839940,-0.2013360,,,0,,Europe/London,1
+490011385E,,Radipole Road (Stop S),,51.4763720,-0.2045440,,,0,,Europe/London,1
+490011385W,,Radipole Road,,51.4758530,-0.2053140,,,0,,Europe/London,1
+490011413Q,,Ram Street (Stop Q),,51.4573970,-0.1923480,,,0,,Europe/London,1
+490011413R,,Ram Street (Stop R),,51.4582820,-0.1920110,,,0,,Europe/London,1
+490011413S,,Ram Street,,51.4579320,-0.1920240,,,0,,Europe/London,1
+490011478M,,Redcliffe Gardens (Stop M),,51.4892270,-0.1908160,,,0,,Europe/London,1
+490011479S,,Redcliffe Square (Stop HU),,51.4873240,-0.1880830,,,0,,Europe/London,1
+490011480N,,Redcliffe Street (Stop HY),,51.4858060,-0.1888770,,,0,,Europe/London,1
+490011617E,,Rochester Row (Stop U),,51.4932900,-0.1390530,,,0,,Europe/London,1
+490011617N,,Rochester Row (Stop W),,51.4923550,-0.1373190,,,0,,Europe/London,1
+490011617N1,,Rochester Row  Vane Street (Stop X),,51.4941480,-0.1369440,,,0,,Europe/London,1
+490011673E,,Rookery Road (Stop Y),,51.4613080,-0.1449320,,,0,,Europe/London,1
+490011673W,,Rookery Road (Stop N),,51.4611820,-0.1445190,,,0,,Europe/London,1
+490011750E,,Royal Albert Hall (Stop RL),,51.5018810,-0.1763960,,,0,,Europe/London,1
+490011750E1,,Royal Albert Hall (Stop K2),,51.5016480,-0.1786960,,,0,,Europe/London,1
+490011750W,,Royal Albert Hall (Stop RC),,51.5014610,-0.1788190,,,0,,Europe/London,1
+490011750W1,,Royal Albert Hall (Stop K3),,51.5014570,-0.1791790,,,0,,Europe/London,1
+490011754N,,Cale St  Royal Brompton Hosp (Stop HS),,51.4896350,-0.1703310,,,0,,Europe/London,1
+490011754S1,,Cale St  Royal Brompton Hosp (Stop HW),,51.4899250,-0.1702900,,,0,,Europe/London,1
+490011761M,,Kensington Palace (Stop M),,51.5023960,-0.1882200,,,0,,Europe/London,1
+490011761N,,Kensington Palace (Stop N),,51.5022470,-0.1877360,,,0,,Europe/London,1
+490011763E,,Royal Hospital Chelsea  Lower Sloane St (Stop N),,51.4889140,-0.1569780,,,0,,Europe/London,1
+490011763N,,Royal Hospital Road (Stop L),,51.4899520,-0.1564460,,,0,,Europe/London,1
+490011763S,,Royal Hospital Chelsea (Stop S),,51.4891170,-0.1548810,,,0,,Europe/London,1
+490011763W,,Royal Hospital Chelsea  Lower Sloane St (Stop U),,51.4889560,-0.1562410,,,0,,Europe/London,1
+490011788N,,Rumbold Road (Stop GC),,51.4784510,-0.1889670,,,0,,Europe/London,1
+490011788W,,Rumbold Road (Stop GJ),,51.4785270,-0.1886180,,,0,,Europe/London,1
+490011812S,,Russell Gardens (Stop A),,51.5004310,-0.2106300,,,0,,Europe/London,1
+490011822E,,Rutland Gardens (Stop KP),,51.5018690,-0.1671030,,,0,,Europe/London,1
+490011822W,,Knightsbridge Barracks (Stop KF),,51.5017010,-0.1660150,,,0,,Europe/London,1
+490011828E,,Ruvigny Gardens (Stop G),,51.4673230,-0.2191820,,,0,,Europe/London,1
+490011828W,,Ruvigny Gardens (Stop H),,51.4671590,-0.2185400,,,0,,Europe/London,1
+490011858N,,Salamanca Street (Stop SM),,51.4912800,-0.1222380,,,0,,Europe/London,1
+490011858S,,Salamanca Street (Stop SK),,51.4905780,-0.1223670,,,0,,Europe/London,1
+490011862N,,Salcott Road,,51.4578440,-0.1659450,,,0,,Europe/London,1
+490011862S,,Salcott Road,,51.4573170,-0.1656060,,,0,,Europe/London,1
+490011916N,,Sands End  Hazlebury Road,,51.4724500,-0.1916520,,,0,,Europe/London,1
+490011916S,,Sands End  Hazlebury Road,,51.4717710,-0.1913480,,,0,,Europe/London,1
+490011917W,,Sands End  Sainsbury's (Stop TS),,51.4680560,-0.1860960,,,0,,Europe/London,1
+490011918E,,William Morris Way (Stop TW),,51.4688800,-0.1864230,,,0,,Europe/London,1
+490011918W,,William Morris Way (Stop TQ),,51.4685710,-0.1862190,,,0,,Europe/London,1
+490011936S,,Ascalon Street (Stop T),,51.4774630,-0.1418000,,,0,,Europe/London,1
+490011943N,,Scarsdale Villas (Stop P),,51.4961470,-0.1969240,,,0,,Europe/London,1
+490011943S,,Pembroke Road (Stop L),,51.4964790,-0.1969110,,,0,,Europe/London,1
+490012117E,,Shorrolds Road (Stop J),,51.4802970,-0.2031800,,,0,,Europe/London,1
+490012117W,,Shorrolds Road (Stop D),,51.4804000,-0.2040840,,,0,,Europe/London,1
+490012161N,,Silverthorne Road (Stop S),,51.4728390,-0.1485110,,,0,,Europe/London,1
+490012161S2,,Silverthorne Road (Stop T),,51.4725690,-0.1484500,,,0,,Europe/London,1
+490012162E,,Silverthorne Road Clapham (Stop J),,51.4678920,-0.1450250,,,0,,Europe/London,1
+490012162W,,Silverthorne Road Clapham (Stop D),,51.4684070,-0.1435930,,,0,,Europe/London,1
+490012182E,,Sisters Avenue,,51.4613760,-0.1585330,,,0,,Europe/London,1
+490012188E,,Skelgill Road  Wandsworth Park,,51.4618910,-0.2055010,,,0,,Europe/London,1
+490012188W,,Skelgill Road  Wandsworth Park,,51.4619100,-0.2062060,,,0,,Europe/London,1
+490012196E,,Sleaford Street (Stop A),,51.4794270,-0.1426850,,,0,,Europe/London,1
+490012196S,,Sleaford Street (Stop F),,51.4797170,-0.1411030,,,0,,Europe/London,1
+490012212E,,Swandon Way (Stop TC),,51.4619900,-0.1868260,,,0,,Europe/London,1
+490012212W,,Swandon Way (Stop TB),,51.4617880,-0.1867180,,,0,,Europe/London,1
+490012235N,,Sopwith Way (Stop E),,51.4801480,-0.1489780,,,0,,Europe/London,1
+490012235S,,Sopwith Way (Stop F),,51.4796410,-0.1488690,,,0,,Europe/London,1
+490012375E,,Commondale (Stop E),,51.4684980,-0.2277900,,,0,,Europe/London,1
+490012375W,,Commondale (Stop K),,51.4683610,-0.2270460,,,0,,Europe/London,1
+490012379N,,Spencer Park (Stop N),,51.4584850,-0.1741960,,,0,,Europe/London,1
+490012379S,,Spencer Park (Stop SU),,51.4583280,-0.1741160,,,0,,Europe/London,1
+490012386E,,Spencer Road Clapham Junction (Stop J),,51.4587060,-0.1746910,,,0,,Europe/London,1
+490012386W,,Spencer Road Clapham Junction (Stop SD),,51.4584500,-0.1754780,,,0,,Europe/London,1
+490012542S,,Stanford Street (Stop V),,51.4913830,-0.1349820,,,0,,Europe/London,1
+490012545E,,Stanhope Gardens (Stop GQ),,51.4937670,-0.1796730,,,0,,Europe/London,1
+490012545W,,Stanhope Gardens (Stop GP),,51.4937130,-0.1791570,,,0,,Europe/London,1
+490012571T,,St. Annes Church (Stop T),,51.4863050,-0.1201230,,,0,,Europe/London,1
+490012632K,,St Barnabas Church (Stop B),,51.4989930,-0.2067240,,,0,,Europe/London,1
+490012676N,,Fulham Leisure Centre,,51.4771230,-0.2219970,,,0,,Europe/London,1
+490012706W,,Corunna Road (Stop S),,51.4767760,-0.1381410,,,0,,Europe/London,1
+490012708F,,St George's Square (Stop F),,51.4889450,-0.1354130,,,0,,Europe/London,1
+490012708G,,St George's Square (Stop G),,51.4890020,-0.1351370,,,0,,Europe/London,1
+490012735N,,Strath Terrace,,51.4623220,-0.1751370,,,0,,Europe/London,1
+490012735S,,Strath Terrace,,51.4620440,-0.1740540,,,0,,Europe/London,1
+490012768A,,Nelson's Row (Stop A),,51.4628720,-0.1352080,,,0,,Europe/London,1
+490012768H,,St Luke's Avenue (Stop H),,51.4632340,-0.1338260,,,0,,Europe/London,1
+490012831E,,Stockwell Bus Garage (Stop P),,51.4746630,-0.1257280,,,0,,Europe/London,1
+490012831N,,Stockwell Bus Garage (Stop N),,51.4742890,-0.1253980,,,0,,Europe/London,1
+490012832X,,Stockwell Gardens (Stop X),,51.4715080,-0.1214940,,,0,,Europe/London,1
+490012833S1,,Stockwell Green,,51.4683720,-0.1188150,,,0,,Europe/London,1
+490012833S2,,Stockwell Green,,51.4685750,-0.1190950,,,0,,Europe/London,1
+490012833W,,Stockwell Green,,51.4678150,-0.1193130,,,0,,Europe/London,1
+490012940N,,St Rule Street (Stop K),,51.4691310,-0.1420370,,,0,,Europe/London,1
+490012941S,,Strutton Ground (Stop SH),,51.4961850,-0.1334320,,,0,,Europe/London,1
+490012941W,,Strutton Ground (Stop SJ),,51.4963070,-0.1337010,,,0,,Europe/London,1
+490012985E,,Galveston Road (Stop EE),,51.4567680,-0.2033410,,,0,,Europe/London,1
+490012985EG,,Upper Richmond Road (Stop EG),,51.4565050,-0.2033230,,,0,,Europe/London,1
+490012985EH,,Upper Richmond Road (Stop EH),,51.4560550,-0.2044060,,,0,,Europe/London,1
+490012985W,,Galveston Road (Stop EF),,51.4566310,-0.2032320,,,0,,Europe/London,1
+490013007W,,Sunbury Lane (Stop H),,51.4766730,-0.1746080,,,0,,Europe/London,1
+490013096W,,Cromwell Hospital,,51.4946210,-0.1901270,,,0,,Europe/London,1
+490013160L,,Tate Britain (Stop L),,51.4914550,-0.1288710,,,0,,Europe/London,1
+490013160M,,Tate Britain (Stop M),,51.4920200,-0.1281130,,,0,,Europe/London,1
+490013160N,,Tate Britain  Millbank Millennium Pier (Stop N),,51.4914700,-0.1258890,,,0,,Europe/London,1
+490013160R,,Tate Britain  Millbank Millennium Pier (Stop R),,51.4908980,-0.1261280,,,0,,Europe/London,1
+490013161N,,Tate Library (Stop T),,51.4784740,-0.1234980,,,0,,Europe/London,1
+490013161S,,Tate Library (Stop U),,51.4800610,-0.1241820,,,0,,Europe/London,1
+490013341M,,Battersea Medical Centre (Stop M),,51.4754710,-0.1506650,,,0,,Europe/London,1
+490013344P,,Putney Pier (Stop P),,51.4664270,-0.2152720,,,0,,Europe/London,1
+490013344Q,,Putney Pier (Stop Q),,51.4663850,-0.2148560,,,0,,Europe/London,1
+490013443E,,The Latchmere (Stop LS),,51.4723890,-0.1646850,,,0,,Europe/London,1
+490013443N,,The Latchmere (Stop LU),,51.4727670,-0.1657930,,,0,,Europe/London,1
+490013443W1,,The Latchmere (Stop LC),,51.4724080,-0.1641370,,,0,,Europe/London,1
+490013448BA,,Empress State Bldg W Brompton (Stop BA),,51.4865190,-0.1984560,,,0,,Europe/London,1
+490013448N,,Empress State Bldg W Brompton (Stop T),,51.4867590,-0.1982740,,,0,,Europe/London,1
+490013484N,,The Old Sergeant,,51.4521600,-0.1909000,,,0,,Europe/London,1
+490013548E,,Sherbrooke Road,,51.4807890,-0.2063730,,,0,,Europe/London,1
+490013548W,,Sherbrooke Road,,51.4809570,-0.2080940,,,0,,Europe/London,1
+490013623N,,Thorne Road (Stop S),,51.4767880,-0.1231780,,,0,,Europe/London,1
+490013623S,,Thorne Road (Stop V),,51.4782220,-0.1234070,,,0,,Europe/London,1
+490013676W,,Fulham Pools (Stop BE),,51.4834590,-0.2088890,,,0,,Europe/London,1
+490013681E,,Tipthorpe Road (Stop B),,51.4655150,-0.1563800,,,0,,Europe/London,1
+490013681S,,Tipthorpe Road (Stop C),,51.4656490,-0.1551070,,,0,,Europe/London,1
+490013707J,,Tonsley Street (Stop J),,51.4595340,-0.1897590,,,0,,Europe/London,1
+490013707K,,Tonsley Street (Stop K),,51.4594960,-0.1901340,,,0,,Europe/London,1
+490013784N,,Tremadoc Road (Stop P),,51.4619220,-0.1294020,,,0,,Europe/London,1
+490013784S,,Tremadoc Road (Stop H),,51.4623220,-0.1291410,,,0,,Europe/London,1
+490013803E,,Royal Trinity Hospice (Stop S),,51.4617200,-0.1459080,,,0,,Europe/London,1
+490013855S1,,Turpentine Lane (Stop J),,51.4893110,-0.1467340,,,0,,Europe/London,1
+490013888N,,Tyrawley Road (Stop GK),,51.4774700,-0.1922890,,,0,,Europe/London,1
+490013888S,,Tyrawley Road (Stop GE),,51.4778020,-0.1923050,,,0,,Europe/London,1
+490013907N,,Union Road (Stop J),,51.4683990,-0.1272510,,,0,,Europe/London,1
+490013907S,,Union Road (Stop L),,51.4696120,-0.1255030,,,0,,Europe/London,1
+490013908N,,Union Road Clapham (Stop M),,51.4719090,-0.1358620,,,0,,Europe/London,1
+490013908S,,Union Road Clapham (Stop A),,51.4724500,-0.1347170,,,0,,Europe/London,1
+490014018W,,Vauxhall Bridge Road (Stop W),,51.4894140,-0.1277590,,,0,,Europe/London,1
+490014020P,,Vauxhall Cross (Stop P),,51.4872320,-0.1235130,,,0,,Europe/London,1
+490014020S,,Vauxhall Cross (Stop S),,51.4874690,-0.1230570,,,0,,Europe/London,1
+490014021V,,Vauxhall Park (Stop V),,51.4835400,-0.1230310,,,0,,Europe/London,1
+490014021W,,Vauxhall Park (Stop W),,51.4832380,-0.1233020,,,0,,Europe/London,1
+490014048N,,South Kensington Museums (Stop K),,51.4978180,-0.1740950,,,0,,Europe/London,1
+490014048S,,South Kensington Museums (Stop L),,51.4964140,-0.1736030,,,0,,Europe/London,1
+490014048Z,,Victoria & Albert Museum (Stand R),,51.4959560,-0.1723680,,,0,,Europe/London,1
+490014050R,,Victoria (Stop R),,51.4957730,-0.1453630,,,0,,Europe/London,1
+490014051U10,,Victoria Coach Station,,51.4923400,-0.1493780,,,0,,Europe/London,1
+490014051V,,Victoria Coach Station (Stop V),,51.4920850,-0.1480910,,,0,,Europe/London,1
+490014051VC,,Victoria Coach Station,,51.4926680,-0.1491910,,,0,,Europe/London,1
+490014051W,,Victoria Coach Station (Stop W),,51.4922140,-0.1482590,,,0,,Europe/London,1
+490014051Y,,Victoria Coach Station (Stop Y),,51.4931720,-0.1498190,,,0,,Europe/London,1
+490014058N,,The Chase Clapham (Stop H),,51.4666630,-0.1486450,,,0,,Europe/London,1
+490014139N,,Wallis Close (Stop B),,51.4653430,-0.1775220,,,0,,Europe/London,1
+490014150KA,,Walpole Street (Stop KA),,51.4902040,-0.1622410,,,0,,Europe/London,1
+490014184S,,Southside Shopping Centre (Stop S),,51.4557650,-0.1925420,,,0,,Europe/London,1
+490014184T,,Southside Shopping Centre (Stop T),,51.4561200,-0.1927580,,,0,,Europe/London,1
+490014184U,,Wandsworth  Southside (Stop U),,51.4568480,-0.1935350,,,0,,Europe/London,1
+490014184V,,Southside Shopping Centre (Stop V),,51.4562260,-0.1927830,,,0,,Europe/London,1
+490014184W,,Wandsworth  Southside (Stop W),,51.4568750,-0.1945710,,,0,,Europe/London,1
+490014185E,,Wandsworth Bridge Townmead Rd (Stop TU),,51.4670720,-0.1887840,,,0,,Europe/London,1
+490014185W,,Wandsworth Bridge (Stop TT),,51.4673730,-0.1878360,,,0,,Europe/London,1
+490014186I,,Wandsworth Bridge Rd Kings Rd (Stop GB),,51.4754940,-0.1943110,,,0,,Europe/London,1
+490014186W,,Wandsworth Bridge Rd Kings Rd (Stop GL),,51.4758760,-0.1933890,,,0,,Europe/London,1
+490014189Y,,Wandsworth Police Station (Stop Y),,51.4572030,-0.1966020,,,0,,Europe/London,1
+490014190F,,Wandsworth Plain (Stand F),,51.4578550,-0.1951370,,,0,,Europe/London,1
+490014190G,,Wandsworth Plain (Stop G),,51.4581260,-0.1952840,,,0,,Europe/London,1
+490014192N2,,Queenstown Rd  Wandsworth Rd (Stop Q),,51.4668460,-0.1506970,,,0,,Europe/London,1
+490014192S,,Queenstown Rd  Wandsworth Rd (Stop V),,51.4667170,-0.1504860,,,0,,Europe/London,1
+490014193E,,St George Wharf Pier,,51.4846230,-0.1290640,,,0,,Europe/London,1
+490014193Z,,St George Wharf Pier (Stop Z),,51.4841690,-0.1297310,,,0,,Europe/London,1
+490014195M,,Wandsworth Town Hall (Stop M),,51.4578740,-0.1899970,,,0,,Europe/London,1
+490014195N,,Wandsworth Town Hall (Stop N),,51.4576260,-0.1897190,,,0,,Europe/London,1
+490014256D,,West Cromwell Road  Tesco (Stop D),,51.4932560,-0.1996600,,,0,,Europe/London,1
+490014257E,,West Cromwell Road (Stop E),,51.4931600,-0.2011190,,,0,,Europe/London,1
+490014257N,,Warwick Road Tesco,,51.4931180,-0.2010920,,,0,,Europe/London,1
+490014259N,,Warwick Way (Stop T),,51.4935380,-0.1416220,,,0,,Europe/London,1
+490014259S,,Warwick Way (Stop P),,51.4928210,-0.1405130,,,0,,Europe/London,1
+490014323N,,Wayland Road Estate (Stop A),,51.4645730,-0.1770920,,,0,,Europe/London,1
+490014323S,,Wayland Road Estate (Stop N),,51.4647870,-0.1770690,,,0,,Europe/London,1
+490014485N,,West Kensington Estate (Stop BT),,51.4879800,-0.2039730,,,0,,Europe/London,1
+490014485S,,West Kensington Estate (Stop BS),,51.4880330,-0.2037840,,,0,,Europe/London,1
+490014495R,,Westminster Abbey (Stop R),,51.4990350,-0.1309670,,,0,,Europe/London,1
+490014495S,,Westminster Abbey (Stop S),,51.4992330,-0.1304260,,,0,,Europe/London,1
+490014495T,,Westminster Abbey (Stop T),,51.4985660,-0.1320380,,,0,,Europe/London,1
+490014495V,,Gt Smith St Westminster Abbey (Stop V),,51.4986920,-0.1314130,,,0,,Europe/London,1
+490014495W,,Westminster Abbey (Stop W),,51.4986500,-0.1299450,,,0,,Europe/London,1
+490014495X,,Westminster Abbey (Stop X),,51.4991230,-0.1296810,,,0,,Europe/London,1
+490014496M,,Westminster Cathedral  Victoria Station (Stop M),,51.4966240,-0.1412510,,,0,,Europe/London,1
+490014496N,,Westminster Cathedral (Stop N),,51.4968340,-0.1402340,,,0,,Europe/London,1
+490014497E,,Macduff Road (Stop LZ),,51.4752270,-0.1524170,,,0,,Europe/London,1
+490014504N,,Westmoreland Terrace (Stop E),,51.4870680,-0.1452120,,,0,,Europe/London,1
+490014504S,,Westmoreland Terrace (Stop CL),,51.4867250,-0.1451970,,,0,,Europe/London,1
+490014504W,,Winchester Street (Stop N),,51.4875830,-0.1421520,,,0,,Europe/London,1
+490014515N,,West Side (Stop F),,51.4548720,-0.1791480,,,0,,Europe/London,1
+490014515S,,West Side (Stop SP),,51.4549900,-0.1786680,,,0,,Europe/London,1
+490014554N,,Old Brompton Road (Stop N),,51.4880870,-0.1920280,,,0,,Europe/London,1
+490014560N,,Wheatsheaf Lane,,51.4808240,-0.1246980,,,0,,Europe/London,1
+490014560S,,Wheatsheaf Lane,,51.4818950,-0.1243800,,,0,,Europe/London,1
+490014649S,,Shaftesbury Est Wickersley Rd (Stop Z),,51.4695090,-0.1541020,,,0,,Europe/London,1
+490014679N,,Wilcox Road (Stop J),,51.4793700,-0.1287750,,,0,,Europe/London,1
+490014679S,,Wilcox Road (Stop L),,51.4806290,-0.1277880,,,0,,Europe/London,1
+490014728S,,Wilton Street (Stop S),,51.4992830,-0.1478430,,,0,,Europe/London,1
+490014769N2,,Windmill Road Clapham Junction (Stop M),,51.4553680,-0.1761920,,,0,,Europe/London,1
+490014769S2,,Windmill Road Clapham Junction (Stop SV),,51.4550550,-0.1763340,,,0,,Europe/London,1
+490015058A,,Clapham Junction  Grant Road (Stop A),,51.4652860,-0.1710020,,,0,,Europe/London,1
+490015058E,,Clapham Junction  Grant Road (Stop R),,51.4654460,-0.1707940,,,0,,Europe/London,1
+490015060L,,Clapham Junction Station (Stop L),,51.4631000,-0.1697790,,,0,,Europe/London,1
+490015062E,,Natural History Museum Queens Gate (Stop GL),,51.4955100,-0.1796470,,,0,,Europe/London,1
+490015062W,,Gloucester Road (Stop GU),,51.4950680,-0.1812490,,,0,,Europe/London,1
+490015064A,,Shorrolds Road (Stop A),,51.4817200,-0.1997540,,,0,,Europe/London,1
+490015066E,,Edith Grove  Worlds End,,51.4816860,-0.1823290,,,0,,Europe/London,1
+490015066S,,Edith Grove  Kings Road (Stop HN),,51.4823570,-0.1821440,,,0,,Europe/London,1
+490015071E,,Gloucester Road (Stop GC),,51.4910890,-0.1809900,,,0,,Europe/London,1
+490015071W,,Gloucester Road (Stop GE),,51.4911230,-0.1803550,,,0,,Europe/London,1
+490015145E,,Beaufort Street (Stop QT),,51.4843290,-0.1764200,,,0,,Europe/London,1
+490015145N,,Beaufort Street  Kings Road (Stop QU),,51.4840700,-0.1754650,,,0,,Europe/London,1
+490015145S,,Beaufort Street  Kings Road (Stop QL),,51.4838750,-0.1750550,,,0,,Europe/London,1
+490015145W,,Beaufort Street (Stop QN),,51.4847300,-0.1750790,,,0,,Europe/London,1
+490015157T,,Putney Bridge Stn Gonville St (Stop FE),,51.4678120,-0.2117620,,,0,,Europe/London,1
+490015157V,,Putney Bridge Stn Gonville St (Stop FH),,51.4680370,-0.2118110,,,0,,Europe/London,1
+490015169N,,Lansdowne Way (Stop Q),,51.4753650,-0.1229490,,,0,,Europe/London,1
+490015173D,,South Kensington Stn  Old Brompton Rd (Stop B),,51.4934500,-0.1737220,,,0,,Europe/London,1
+490015175A,,Sloane Street  Sloane Square Station (Stop A),,51.4933280,-0.1579670,,,0,,Europe/London,1
+490015175C,,Sloane Square (Stop C),,51.4930920,-0.1578460,,,0,,Europe/London,1
+490015228L,,Earls Court Road  Old Brompton Road (Stop L),,51.4901960,-0.1907200,,,0,,Europe/London,1
+490015234A,,Clapham Common (Stop A),,51.4618840,-0.1386460,,,0,,Europe/London,1
+490015235R,,Clapham Common (Stop Z),,51.4606440,-0.1395170,,,0,,Europe/London,1
+490015236L,,Long Road  Clapham Common (Stop L),,51.4612200,-0.1411200,,,0,,Europe/London,1
+490015236M,,Long Road  Clapham Common (Stop M),,51.4610980,-0.1403330,,,0,,Europe/London,1
+490015371W,,Mapleton Crescent,,51.4539570,-0.1929880,,,0,,Europe/London,1
+490015372W,,Marcilly Road (Stop SB),,51.4597210,-0.1791990,,,0,,Europe/London,1
+490015393Y,,Munster Road Parsons Green (Stop Y),,51.4718210,-0.2045930,,,0,,Europe/London,1
+490015393Z,,Munster Road Parsons Green (Stop Z),,51.4719470,-0.2045880,,,0,,Europe/London,1
+490015404E,,Marcilly Road (Stop B),,51.4594500,-0.1808220,,,0,,Europe/London,1
+490015421E,,Royal Brompton Hosp  Royal Marsden Hosp (Stop HM),,51.4907230,-0.1737010,,,0,,Europe/London,1
+490015421S,,Royal Brompton Hosp  Royal Marsden Hosp (Stop HP),,51.4903680,-0.1740320,,,0,,Europe/London,1
+490015485N,,Windmill Road Earlsfield (Stop E),,51.4526520,-0.1768750,,,0,,Europe/London,1
+490015485S,,Windmill Road Earlsfield (Stop SR),,51.4528810,-0.1765500,,,0,,Europe/London,1
+490015538N1,,Wandsworth Road (Stop P),,51.4655650,-0.1503160,,,0,,Europe/London,1
+490015546P,,Wandsworth Town Hall (Stop P),,51.4567260,-0.1907910,,,0,,Europe/London,1
+490015575W,,Parsons Green New Kings Road (Stop W),,51.4727520,-0.1989270,,,0,,Europe/London,1
+490015575X,,Parsons Green New Kings Road (Stop X),,51.4728740,-0.1992240,,,0,,Europe/London,1
+490015832E,,Grosvenor Road (Stop CM),,51.4855190,-0.1434460,,,0,,Europe/London,1
+490015845E,,Bull Ring Gate (Stop CH),,51.4851570,-0.1547530,,,0,,Europe/London,1
+490015965E,,Broomwood Road,,51.4565730,-0.1543500,,,0,,Europe/London,1
+490015965W,,Broomwood Road,,51.4564060,-0.1545590,,,0,,Europe/London,1
+490016263E,,Prince Consort Road (Stop RZ),,51.4998740,-0.1780320,,,0,,Europe/London,1
+490016263RW,,Prince Consort Road  Imperial College (Stop RW),,51.4997710,-0.1790020,,,0,,Europe/London,1
+490016270W,,Mary Lee Way (Stop KK),,51.4901010,-0.1149250,,,0,,Europe/London,1
+490016271E,,Tyers Street (Stop SH),,51.4912450,-0.1173990,,,0,,Europe/London,1
+490016271W,,Tyers Street (Stop SJ),,51.4911310,-0.1175190,,,0,,Europe/London,1
+490016275J,,Falcon Lane (Stop J),,51.4643400,-0.1656270,,,0,,Europe/London,1
+490016309E,,Winchester Street (Stop C),,51.4877400,-0.1418290,,,0,,Europe/London,1
+490016310W,,Draycott Place,,51.4918750,-0.1617130,,,0,,Europe/London,1
+490016311N,,Marlborough Primary School,,51.4923210,-0.1660460,,,0,,Europe/London,1
+490016311S,,Marlborough Primary School,,51.4924550,-0.1659250,,,0,,Europe/London,1
+490016312N,,Fulham Road,,51.4932480,-0.1684290,,,0,,Europe/London,1
+490016312S,,Fulham Road,,51.4934010,-0.1684080,,,0,,Europe/London,1
+490016313E,,Draycott Place,,51.4914400,-0.1626520,,,0,,Europe/London,1
+490016612N,,Harwood Terrace (Stop N),,51.4762500,-0.1901490,,,0,,Europe/London,1
+490016612S,,Harwood Terrace (Stop P),,51.4756620,-0.1883720,,,0,,Europe/London,1
+490016613N,,Imperial Road Chelsea Harbour (Stop L),,51.4745900,-0.1857650,,,0,,Europe/London,1
+490016613S,,Imperial Whf Stn Chelsea Hrbr (Stop R),,51.4744800,-0.1851780,,,0,,Europe/London,1
+490016686E,,Patmore Estate  Drury House (Stop U),,51.4764940,-0.1419980,,,0,,Europe/London,1
+490016687E,,Linford Street (Stop V),,51.4749830,-0.1402880,,,0,,Europe/London,1
+490016688E,,Carey Gardens,,51.4736710,-0.1379790,,,0,,Europe/London,1
+490016689E,,Clyston Street (Stop Y),,51.4725490,-0.1360670,,,0,,Europe/London,1
+490016690W,,Blore Close,,51.4738500,-0.1341560,,,0,,Europe/London,1
+490016736W,,Victoria Coach Station Arrivals,,51.4934310,-0.1489880,,,0,,Europe/London,1
+490016803E,,Fenwick Place (Stop P),,51.4655720,-0.1276690,,,0,,Europe/London,1
+490016803W,,Fenwick Place (Stop Q),,51.4653890,-0.1280220,,,0,,Europe/London,1
+490016804E,,Lambeth Hospital,,51.4666290,-0.1234510,,,0,,Europe/London,1
+490016804W,,Lambeth Hospital,,51.4664120,-0.1237620,,,0,,Europe/London,1
+490017850N,,Ebury Bridge Road,,51.4899180,-0.1502680,,,0,,Europe/London,1
+490017850S,,Ebury Bridge Road,,51.4890520,-0.1502740,,,0,,Europe/London,1
+490018012S,,Bovingdon Road,,51.4739190,-0.1919250,,,0,,Europe/London,1
+490018645N,,Fulmead Street (Stop M),,51.4755740,-0.1884180,,,0,,Europe/London,1
+490018704W,,Natural History Museum Cromwell Road (Stop H),,51.4954490,-0.1762500,,,0,,Europe/London,1
+490019402S,,King George's Park (Stop H),,51.4552270,-0.1967520,,,0,,Europe/London,1
+490019460W,,Warwick Road (Stop R),,51.4889370,-0.1919080,,,0,,Europe/London,1
+490019613N,,Lots Road,,51.4787450,-0.1846060,,,0,,Europe/London,1
+490019613S,,Lots Road,,51.4789050,-0.1845570,,,0,,Europe/London,1
+490020135E,,The Pavement (Stop T),,51.4627190,-0.1408580,,,0,,Europe/London,1
+490020135S,,Wingate Square,,51.4635540,-0.1409530,,,0,,Europe/London,1
+490020135U,,The Pavement,,51.4627650,-0.1409860,,,0,,Europe/London,1
+490020326S,,Durham Street  Harleyford Road,,51.4854390,-0.1186890,,,0,,Europe/London,1
+49003182RT,,Imperial College  Queens Gate Terrace (Stop RT),,51.4994510,-0.1797210,,,0,,Europe/London,1
+490G00020252,,Vauxhall,,51.4854200,-0.1241920,,,1,,Europe/London,0
+490G000812,,Victoria,,51.4961550,-0.1437770,,,1,,Europe/London,0
+910GBATRSPK,,Battersea Park,,51.4769590,-0.1475090,,,1,,Europe/London,0
+910GCLPHHS,,Clapham High Street,,51.4654810,-0.1324960,,,1,,Europe/London,0
+910GCLPHMJ1,,Clapham Junction,,51.4641880,-0.1701970,,,1,,Europe/London,0
+910GCLPHMJ2,,Clapham Junction,,51.4641880,-0.1702680,,,1,,Europe/London,0
+910GCLPHMJM,,Clapham Junction,,51.4641880,-0.1702680,,,1,,Europe/London,0
+910GCLPHMJW,,Clapham Junction,,51.4641880,-0.1702680,,,1,,Europe/London,0
+910GCSEAH,,Imperial Wharf,,51.4749490,-0.1827980,,,1,,Europe/London,0
+910GKENOLYM,,Kensington,,51.4978980,-0.2103400,,,1,,Europe/London,0
+910GPUTNEY,,Putney,,51.4613000,-0.2164510,,,1,,Europe/London,0
+910GQTRDBAT,,Queenstown Road,,51.4749680,-0.1466530,,,1,,Europe/London,0
+910GVAUXHLW,,Vauxhall,,51.4861910,-0.1228640,,,1,,Europe/London,0
+910GVICTRIC,,London Victoria,,51.4952580,-0.1445340,,,1,,Europe/London,0
+910GVICTRIE,,London Victoria,,51.4952580,-0.1445340,,,1,,Europe/London,0
+910GWBRMPTN,,West Brompton,,51.4870610,-0.1955690,,,1,,Europe/London,0
+910GWDWTOWN,,Wandsworth Town,,51.4610480,-0.1881010,,,1,,Europe/London,0
+910GWNDSWRD,,Wandsworth Road,,51.4702150,-0.1384940,,,1,,Europe/London,0
+9300BSE1,,Cadogan Pier,,51.4828680,-0.1663820,,,0,,Europe/London,0
+9300BSE2,,Cadogan Pier,,51.4828300,-0.1664410,,,0,,Europe/London,0
+9300BSP1,,Battersea Power Station Pier,,51.4834980,-0.1441330,,,0,,Europe/London,0
+9300BSP2,,Battersea Power Station Pier,,51.4834980,-0.1440610,,,0,,Europe/London,0
+9300CHP1,,Chelsea Harbour Pier,,51.4740370,-0.1798250,,,0,,Europe/London,0
+9300CHP2,,Chelsea Harbour Pier,,51.4739950,-0.1798990,,,0,,Europe/London,0
+9300MBK1,,Millbank Pier,,51.4921950,-0.1250950,,,0,,Europe/London,0
+9300MBK2,,Millbank Pier,,51.4926340,-0.1248900,,,0,,Europe/London,0
+9300PLW1,,Plantation Wharf Pier,,51.4668310,-0.1817530,,,0,,Europe/London,0
+9300PUT1,,Putney Pier,,51.4672930,-0.2154690,,,0,,Europe/London,0
+9300SGW1,,Vauxhall St George Wharf Pier,,51.4864620,-0.1268580,,,0,,Europe/London,0
+9300SGW2,,Vauxhall St George Wharf Pier,,51.4864620,-0.1269580,,,0,,Europe/London,0
+9300WRQ1,,Wandsworth Riverside Quarter Pier,,51.4628410,-0.1988990,,,0,,Europe/London,0
+940GZZLUBSC,,Barons Court,,51.4903110,-0.2134030,,,1,,Europe/London,0
+940GZZLUCPC,,Clapham Common,,51.4617420,-0.1382920,,,1,,Europe/London,2
+940GZZLUCPN,,Clapham North,,51.4651340,-0.1299910,,,1,,Europe/London,0
+940GZZLUECT,,Earl's Court,,51.4920620,-0.1933540,,,1,,Europe/London,1
+940GZZLUEPY,,East Putney,,51.4592020,-0.2109760,,,1,,Europe/London,2
+940GZZLUFBY,,Fulham Broadway,,51.4800800,-0.1953980,,,1,,Europe/London,1
+940GZZLUGTR,,Gloucester Road,,51.4943160,-0.1826340,,,1,,Europe/London,2
+940GZZLUHPC,,Hyde Park Corner,,51.5030330,-0.1524170,,,1,,Europe/London,2
+940GZZLUHSK,,High Street Kensington,,51.5010570,-0.1927680,,,1,,Europe/London,0
+940GZZLUKNB,,Knightsbridge,,51.5016670,-0.1604830,,,1,,Europe/London,2
+940GZZLUKOY,,Kensington,,51.4976230,-0.2099910,,,1,,Europe/London,1
+940GZZLUPCO,,Pimlico,,51.4890980,-0.1337360,,,1,,Europe/London,2
+940GZZLUPSG,,Parsons Green,,51.4752770,-0.2011460,,,1,,Europe/London,2
+940GZZLUPYB,,Putney Bridge,,51.4682620,-0.2087070,,,1,,Europe/London,2
+940GZZLUSJP,,St. James's Park,,51.4995420,-0.1335830,,,1,,Europe/London,2
+940GZZLUSKS,,South Kensington,,51.4940950,-0.1741140,,,1,,Europe/London,0
+940GZZLUSKW,,Stockwell,,51.4721830,-0.1226180,,,1,,Europe/London,0
+940GZZLUSSQ,,Sloane Square,,51.4922680,-0.1563530,,,1,,Europe/London,2
+940GZZLUVIC,,Victoria,,51.4963570,-0.1430770,,,1,,Europe/London,2
+940GZZLUVXL,,Vauxhall,,51.4857440,-0.1241790,,,1,,Europe/London,2
+940GZZLUWBN,,West Brompton,,51.4872670,-0.1955750,,,1,,Europe/London,0
+940GZZLUWKN,,West Kensington,,51.4904590,-0.2066130,,,1,,Europe/London,2

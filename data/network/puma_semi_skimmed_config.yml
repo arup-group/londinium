@@ -1,0 +1,120 @@
+# projection for the output network, this is the same projection as your agents' activities and the one you define in
+# the main matsim config
+PROJECTION: epsg:27700
+
+OSM_TAGS:
+  # tags that are included when reading OSM data, this is the minimal suggested set
+  USEFUL_TAGS_NODE:
+    - ref
+    - highway
+  USEFUL_TAGS_PATH:
+    - bridge
+    - tunnel
+    - oneway
+    - lanes
+    - highway
+    - service
+    - access
+    - railway
+    - osmid
+
+  # tags that get written to the graph
+  PUMA_GRAPH_TAGS:
+    - modes
+    - highway
+    - railway
+    - osmid
+    - lanes
+
+MODES:
+  # This is used for subsetting appropriate graphs, it is how puma knows that buses in GTFS should be put on the OSM
+  # network with car and bus mode allowed on it. MODE_SUBGROUPS:Mode is a 'mode' (lowercase) that MATSim will need to
+  # understand, as an addition in your MATSim config or otherwise. Check out src/outputs_handling/matsim_xml_values.py
+  # for ideas
+  MODE_SUBGROUPS:
+    Bus:
+      OSM:
+        - car
+        - bus
+      GTFS:
+        - bus
+    Rail:
+      OSM:
+        - rail
+      GTFS:
+        - rail
+    Subway:
+      OSM:
+        - subway
+      GTFS:
+        - subway
+    Ferry:
+      OSM:
+        - ferry
+      GTFS:
+        - ferry
+
+  MODE_INDICATORS:
+    # These refer to tags stored in OSM, the mode assignment to tags is manual and definitely not exhaustive. The
+    # tags that are not understood by puma will be logged and can be reviewed before proceeding with building the network.
+    # if a tag is not listed here, it will not be read into the network. This is where you should define how dense
+    # you want your network to be. If any of these tags don't have values defined for them in
+    # src/outputs_handling/matsim_xml_values.py, it will default to DEFAULT_OSM_TAG_VALUE
+    highway:
+      motorway:
+        - car
+      motorway_link:
+        - car
+      trunk:
+        - car
+      trunk_link:
+        - car
+      primary:
+        - car
+        - walk
+        - bike
+      primary_link:
+        - car
+        - walk
+        - bike
+      secondary:
+        - car
+        - walk
+        - bike
+      secondary_link:
+        - car
+        - walk
+        - bike
+      tertiary:
+        - car
+        - walk
+        - bike
+      tertiary_link:
+        - car
+        - walk
+        - bike
+      minor:
+        - car
+        - walk
+        - bike
+      unclassified:
+        - car
+        - walk
+        - bike
+      residential:
+        - car
+        - walk
+        - bike
+      living_street:
+        - car
+        - walk
+        - bike
+
+  DEFAULT_OSM_TAG_VALUE:
+    car: secondary
+    bus: secondary
+    rail: railway
+    subway: railway
+    bike: living_street
+    walk: pedestrian
+    ferry: railway
