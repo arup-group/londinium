@@ -68,3 +68,9 @@ We used the above notebook to generate a population including 100 agents. Each a
 ### Population Trips Map
 <kbd><img src="londinium-trips-map.png"/></kbd>
 
+
+## Public Transit Schedule Data
+
+### The Londinium Road Network
+<kbd><img src="londinium-pt-network.png"/></kbd>
+
