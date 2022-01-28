@@ -1,12 +1,24 @@
-# Londinium - An example city of a transport ABM.
+# Londinium - An example MATSim dataset
 
-The Londinium is  a bigger, more realistic datasetthan Test Town that we can use it for testing our tools.
+Londinium is a semi-synthetic dataset for use with [MATSim agent based models](https://www.matsim.org/). The intention
+is to provide a dataset small enough to use when running MATSim on a typical developer laptop, but big enough
+to give MATSim a useful workout. Londinium uses real OSM and GTFS data, combined with a synthetic population of agents.
 
 The Londinium dataset is comprised of:
 
-- an OSM data file covering a region in west London
-- a GTFS public transit schedule for the same geographical area
-- a synthetic MATSim population of 100 agents with travel plans inside this region
+- "pre-baked", ready-made MATSim input files:
+  - [network](data/network/network.xml)
+  - [vehicles](data/network/vehicles.xml)
+  - [schedule](data/network/schedule.xml)
+  - [population](data/population/population.xml)]
+- [LSOA data](data/lsoas) - used to generate the agent activity plans
+- an [OSM data file](data/network/osm) covering a region in west London - used to generate
+[the MATSim network](data/network/network.xml)
+- a [GTFS public transit schedule](data/network/gtfs/Londinium_arup_gb_rail_and_tnds_2020-03-12) for the
+geographical area covered by the OSM file - used to generate [the MATSim network](data/network/network.xml),
+[schedule](data/network/schedule.xml) and [vehicles](data/network/vehicles.xml) files used as input to MATSim
+- a [synthetic MATSim population](data/population/population.xml) of 100 agents with travel plans inside this region
+
 
 ## OSM Data
 We chose the location so as to have a selection of different public transit modes, allowing us to see agents
