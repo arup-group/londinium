@@ -61,7 +61,7 @@ We used the above notebook to generate a population including 100 agents. Each a
 | No. Activities       | 452     |
 | Activity type counts |  <ul>  <li>200 "home"  <li>44 "pub"  <li>41 "medical"  <li>40 "shop"  <li>36 "gym"  <li>27 "work"  <li>25 "education"  <li>22 "park"  <li>17 "leisure" </ul> |
   
-### An example activity plan
+### Sample Activity Plans
 <kbd><img src="example_activity_plan.png"/></kbd>
 
 
