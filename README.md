@@ -27,6 +27,7 @@ London gives us.
 
 ### Geographical Bounds
 <kbd><img src="londinium-larger-context-map.png"/></kbd>
+<kbd><img src="londinium-bounding-box"/></kbd>
 <kbd><img src="londinium-map.png"/></kbd>
 
 ## Population Data
@@ -55,14 +56,14 @@ We used the above notebook to generate a population including 100 agents. Each a
 | Subpopulation split  | <ul><li>`low income`: 30% <li>`medium income`: 40% <li>`high income`: 30%</ul> |
 | Gender split         | <ul><li>Female: 50% <li>Male: 50%</ul> |
 | Household LAD split  | <ul><li>`Wandsworth`: 26% <li>`Kensington and Chelsea`: 21% <li>`Hammersmith and Fulham`: 20% <li>`Lambeth`: 18% <li>`Westminster`: 13% <li>`Richmond upon Thames`: 2% </ul> |
-| No trip legs         | 352     |
+| No. trip legs         | 352     |
 | Leg mode counts      | <ul><li>  62 mode="bus" <li>  54 mode="car" <li>  50 mode="ferry" <li>  49 mode="subway" <li>  48 mode="walk" <li>  47 mode="rail" <li>  42 mode="bike" </ul> |
 | No. Activities       | 452     |
 | Activity type counts |  <ul>  <li>200 "home"  <li>44 "pub"  <li>41 "medical"  <li>40 "shop"  <li>36 "gym"  <li>27 "work"  <li>25 "education"  <li>22 "park"  <li>17 "leisure" </ul> |
   
-An example of activity plan and trips from generated population:
+### An example activity plan
 <kbd><img src="example_activity_plan.png"/></kbd>
-<kbd><img src="trips.png"/></kbd>
+
 
 ### Population Trips Map
 <kbd><img src="londinium-trips-map.png"/></kbd>
