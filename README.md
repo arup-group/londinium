@@ -1,4 +1,4 @@
-# Londinium - An example MATSim dataset
+# Londinium - A MATSim dataset
 
 Londinium is a semi-synthetic dataset for use with [MATSim agent based models](https://www.matsim.org/). The intention
 is to provide a dataset small enough to use when running MATSim on a typical developer laptop, but big enough
@@ -27,7 +27,7 @@ London gives us.
 
 ### Geographical Bounds
 <kbd><img src="londinium-larger-context-map.png"/></kbd>
-<kbd><img src="londinium-bounding-box"/></kbd>
+<kbd><img src="londinium-bounding-box.png"/></kbd>
 <kbd><img src="londinium-map.png"/></kbd>
 
 ## Population Data
