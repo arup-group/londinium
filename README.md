@@ -74,3 +74,7 @@ We used the above notebook to generate a population including 100 agents. Each a
 ### The Londinium PT Network
 <kbd><img src="londinium-pt-network.png"/></kbd>
 
+## Contributing
+
+Please see our [code of conduct](CODE_OF_CONDUCT.md) and [guide to contributing](CONTRIBUTING.md).
+
