@@ -71,6 +71,6 @@ We used the above notebook to generate a population including 100 agents. Each a
 
 ## Public Transit Schedule Data
 
-### The Londinium Road Network
+### The Londinium PT Network
 <kbd><img src="londinium-pt-network.png"/></kbd>
 
