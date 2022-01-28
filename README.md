@@ -51,3 +51,6 @@ An example of activity plan and trips from generated population:
 <kbd><img src="example_activity_plan.png"/></kbd>
 <kbd><img src="trips.png"/></kbd>
 
+## Contributing
+
+We maintain a backlog of tasks, please in touch if you would like please raise your own issue. 
