@@ -28,7 +28,7 @@ London gives us.
 ### OSM Files
 | File                                           | Size    | Nodes   | Ways   | Relations |
 | ---------------------------------------------- |:-------:|:-------:|:------:|:---------:|
-| `data/network/osm/Londinium.osm.pbf` | 4.1M    | 340,621 | 65,067 | 2,129     |
+| `data/network/osm/Londinium.osm.pbf`           | 4.1M    | 340,621 | 65,067 | 2,129     |
 
 ### Geographical Bounds
 <kbd><img src="londinium-larger-context-map.png"/></kbd>
