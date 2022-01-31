@@ -25,6 +25,11 @@ We chose the location so as to have a selection of different public transit mode
 interchange modes. We also wanted to have a mixture of major and minor roads, which this particular section of west
 London gives us.
 
+### OSM Files
+| File                                           | Size    | Nodes   | Ways   | Relations |
+| ---------------------------------------------- |:-------:|:-------:|:------:|:---------:|
+| `data/network/osm/Londinium.osm.pbf` | 4.1M    | 340,621 | 65,067 | 2,129     |
+
 ### Geographical Bounds
 <kbd><img src="londinium-larger-context-map.png"/></kbd>
 <kbd><img src="londinium-bounding-box.png"/></kbd>
@@ -73,6 +78,39 @@ We used the above notebook to generate a population including 100 agents. Each a
 
 ### The Londinium PT Network
 <kbd><img src="londinium-pt-network.png"/></kbd>
+
+### GTFS Directory
+`data/network/gtfs/Londinium_arup_gb_rail_and_tnds_2020-03-12`
+
+### GTFS Files
+| File                         | Size   |
+| ---------------------------- |:-------|
+|`stop_times.txt`              | 93M    |
+|`trips.txt`                   | 7.4M   |
+|`transfers.txt`               | 56B    |
+|`stops.txt`                   | 69K    |
+|`shapes.txt`                  | 73B    |
+|`routes.txt`                  | 1.1M   |
+|`frequencies.txt`             | 53B    |
+|`feed_info.txt`               | 145B   |
+|`fare_rules.txt`              | 54B    |
+|`fare_attributes.txt`         | 81B    |
+|`calendar_dates.txt`          | 6.1M   |
+|`calendar.txt`                | 714K   |
+|`agency.txt`                  | 77K    |
+
+
+### GTFS Details
+|                  |             |
+| ---------------- |:------------|
+| GTFS Day         | 12 Mar 2020 |
+| Transit Trips    | 98,402      |
+| Transit stops    | 846         |
+| Stop times       | 1,170,122   |
+| Transit Routes   | 20,607      |
+| Transit agencies | 1,039       |
+| Calendar entries | 19,541      |
+| Calendar dates   | 386,517     |
 
 ## Contributing
 
