@@ -8,7 +8,11 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 001B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000923</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_0</attribute>
+
     </attributes>
     <plan selected="yes">
       <activity type="home" x="528634.2579046559" y="176896.66392752415" end_time="07:58:00"/>
@@ -32,6 +36,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 021B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000980</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_1</attribute>
     </attributes>
     <plan selected="yes">
@@ -56,6 +63,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 004C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000926</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_2</attribute>
     </attributes>
     <plan selected="yes">
@@ -76,6 +86,9 @@
       <attribute class="java.lang.String" name="household_zone">Richmond upon Thames 001E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000784</attribute>
       <attribute class="java.lang.String" name="household_LAD">Richmond upon Thames</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_3</attribute>
     </attributes>
     <plan selected="yes">
@@ -100,6 +113,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 016C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000592</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_4</attribute>
     </attributes>
     <plan selected="yes">
@@ -122,6 +138,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 012E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000934</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_5</attribute>
     </attributes>
     <plan selected="yes">
@@ -140,6 +159,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 020C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000979</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_6</attribute>
     </attributes>
     <plan selected="yes">
@@ -158,6 +180,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 022A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000981</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_7</attribute>
     </attributes>
     <plan selected="yes">
@@ -182,6 +207,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 001B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000923</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_8</attribute>
     </attributes>
     <plan selected="yes">
@@ -202,6 +230,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 021A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000980</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_9</attribute>
     </attributes>
     <plan selected="yes">
@@ -224,6 +255,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 016B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000592</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_10</attribute>
     </attributes>
     <plan selected="yes">
@@ -244,6 +278,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 001B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000923</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_11</attribute>
     </attributes>
     <plan selected="yes">
@@ -266,6 +303,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 020E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000979</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_12</attribute>
     </attributes>
     <plan selected="yes">
@@ -284,6 +324,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 016B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000387</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_13</attribute>
     </attributes>
     <plan selected="yes">
@@ -308,6 +351,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 013C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000384</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_14</attribute>
     </attributes>
     <plan selected="yes">
@@ -328,6 +374,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 010D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000381</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_15</attribute>
     </attributes>
     <plan selected="yes">
@@ -348,6 +397,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 013C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000589</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_16</attribute>
     </attributes>
     <plan selected="yes">
@@ -370,6 +422,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 019B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000595</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_17</attribute>
     </attributes>
     <plan selected="yes">
@@ -392,6 +447,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 004D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000926</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_18</attribute>
     </attributes>
     <plan selected="yes">
@@ -416,6 +474,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 019B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000595</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_19</attribute>
     </attributes>
     <plan selected="yes">
@@ -438,6 +499,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 012E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000383</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_20</attribute>
     </attributes>
     <plan selected="yes">
@@ -456,6 +520,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 021A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000980</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_21</attribute>
     </attributes>
     <plan selected="yes">
@@ -476,6 +543,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 021E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000597</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_22</attribute>
     </attributes>
     <plan selected="yes">
@@ -500,6 +570,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 018A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000940</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_23</attribute>
     </attributes>
     <plan selected="yes">
@@ -518,6 +591,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 019A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000978</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_24</attribute>
     </attributes>
     <plan selected="yes">
@@ -542,6 +618,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 010B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000932</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_25</attribute>
     </attributes>
     <plan selected="yes">
@@ -566,6 +645,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 007D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000624</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_26</attribute>
     </attributes>
     <plan selected="yes">
@@ -588,6 +670,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 015C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000591</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_27</attribute>
     </attributes>
     <plan selected="yes">
@@ -606,6 +691,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 004A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000926</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_28</attribute>
     </attributes>
     <plan selected="yes">
@@ -624,6 +712,9 @@
       <attribute class="java.lang.String" name="household_zone">Richmond upon Thames 001E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000784</attribute>
       <attribute class="java.lang.String" name="household_LAD">Richmond upon Thames</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_29</attribute>
     </attributes>
     <plan selected="yes">
@@ -642,6 +733,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 021C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000597</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_30</attribute>
     </attributes>
     <plan selected="yes">
@@ -664,6 +758,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 019F</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000941</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_31</attribute>
     </attributes>
     <plan selected="yes">
@@ -688,6 +785,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 003B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000925</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_32</attribute>
     </attributes>
     <plan selected="yes">
@@ -706,6 +806,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 008D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000625</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_33</attribute>
     </attributes>
     <plan selected="yes">
@@ -730,6 +833,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 011D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000628</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_34</attribute>
     </attributes>
     <plan selected="yes">
@@ -752,6 +858,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 010E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000586</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_35</attribute>
     </attributes>
     <plan selected="yes">
@@ -770,6 +879,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 012A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000629</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_36</attribute>
     </attributes>
     <plan selected="yes">
@@ -794,6 +906,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 018B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000940</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_37</attribute>
     </attributes>
     <plan selected="yes">
@@ -814,6 +929,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 015C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000937</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_38</attribute>
     </attributes>
     <plan selected="yes">
@@ -836,6 +954,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 012C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000383</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_39</attribute>
     </attributes>
     <plan selected="yes">
@@ -854,6 +975,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 009A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000585</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_40</attribute>
     </attributes>
     <plan selected="yes">
@@ -878,6 +1002,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 008C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000625</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_41</attribute>
     </attributes>
     <plan selected="yes">
@@ -900,6 +1027,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 015B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000937</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_42</attribute>
     </attributes>
     <plan selected="yes">
@@ -922,6 +1052,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 018C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000594</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_43</attribute>
     </attributes>
     <plan selected="yes">
@@ -942,6 +1075,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 019D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000595</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_44</attribute>
     </attributes>
     <plan selected="yes">
@@ -966,6 +1102,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 001B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000618</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_45</attribute>
     </attributes>
     <plan selected="yes">
@@ -986,6 +1125,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 013C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000589</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_46</attribute>
     </attributes>
     <plan selected="yes">
@@ -1008,6 +1150,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 013E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000630</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_47</attribute>
     </attributes>
     <plan selected="yes">
@@ -1026,6 +1171,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 008E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000930</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_48</attribute>
     </attributes>
     <plan selected="yes">
@@ -1044,6 +1192,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 014C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000385</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_49</attribute>
     </attributes>
     <plan selected="yes">
@@ -1064,6 +1215,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 018A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000594</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_50</attribute>
     </attributes>
     <plan selected="yes">
@@ -1084,6 +1238,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 020A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000391</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_51</attribute>
     </attributes>
     <plan selected="yes">
@@ -1104,6 +1261,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 021F</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000392</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_52</attribute>
     </attributes>
     <plan selected="yes">
@@ -1122,6 +1282,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 022C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000981</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_53</attribute>
     </attributes>
     <plan selected="yes">
@@ -1146,6 +1309,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 011B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000587</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_54</attribute>
     </attributes>
     <plan selected="yes">
@@ -1166,6 +1332,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 013E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000384</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_55</attribute>
     </attributes>
     <plan selected="yes">
@@ -1190,6 +1359,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 018A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000940</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_56</attribute>
     </attributes>
     <plan selected="yes">
@@ -1212,6 +1384,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 016D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000633</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_57</attribute>
     </attributes>
     <plan selected="yes">
@@ -1230,6 +1405,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 019A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000636</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_58</attribute>
     </attributes>
     <plan selected="yes">
@@ -1248,6 +1426,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 011D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000628</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_59</attribute>
     </attributes>
     <plan selected="yes">
@@ -1272,6 +1453,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 015C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000937</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_60</attribute>
     </attributes>
     <plan selected="yes">
@@ -1290,6 +1474,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 013B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000630</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_61</attribute>
     </attributes>
     <plan selected="yes">
@@ -1314,6 +1501,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 012C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000588</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_62</attribute>
     </attributes>
     <plan selected="yes">
@@ -1338,6 +1528,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 015A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000386</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_63</attribute>
     </attributes>
     <plan selected="yes">
@@ -1360,6 +1553,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 018C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000389</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_64</attribute>
     </attributes>
     <plan selected="yes">
@@ -1380,6 +1576,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 019B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000941</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_65</attribute>
     </attributes>
     <plan selected="yes">
@@ -1402,6 +1601,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 015B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000632</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_66</attribute>
     </attributes>
     <plan selected="yes">
@@ -1424,6 +1626,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 002B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000924</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_67</attribute>
     </attributes>
     <plan selected="yes">
@@ -1446,6 +1651,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 006C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000623</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_68</attribute>
     </attributes>
     <plan selected="yes">
@@ -1464,6 +1672,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 019B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000978</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_69</attribute>
     </attributes>
     <plan selected="yes">
@@ -1486,6 +1697,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 009B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000585</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_70</attribute>
     </attributes>
     <plan selected="yes">
@@ -1506,6 +1720,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 012A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000383</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_71</attribute>
     </attributes>
     <plan selected="yes">
@@ -1530,6 +1747,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 021A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000392</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_72</attribute>
     </attributes>
     <plan selected="yes">
@@ -1552,6 +1772,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 021E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000980</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_73</attribute>
     </attributes>
     <plan selected="yes">
@@ -1572,6 +1795,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 012A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000629</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_74</attribute>
     </attributes>
     <plan selected="yes">
@@ -1592,6 +1818,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 004A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000621</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_75</attribute>
     </attributes>
     <plan selected="yes">
@@ -1614,6 +1843,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 010D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000586</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_76</attribute>
     </attributes>
     <plan selected="yes">
@@ -1634,6 +1866,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 008C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000930</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_77</attribute>
     </attributes>
     <plan selected="yes">
@@ -1652,6 +1887,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 003D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000925</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_78</attribute>
     </attributes>
     <plan selected="yes">
@@ -1672,6 +1910,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 001C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000923</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_79</attribute>
     </attributes>
     <plan selected="yes">
@@ -1690,6 +1931,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 004D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000621</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_80</attribute>
     </attributes>
     <plan selected="yes">
@@ -1708,6 +1952,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 008A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000625</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_81</attribute>
     </attributes>
     <plan selected="yes">
@@ -1730,6 +1977,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 012B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000383</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_82</attribute>
     </attributes>
     <plan selected="yes">
@@ -1752,6 +2002,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 013D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000589</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_83</attribute>
     </attributes>
     <plan selected="yes">
@@ -1776,6 +2029,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 022B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000393</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_84</attribute>
     </attributes>
     <plan selected="yes">
@@ -1798,6 +2054,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 018B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000389</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_85</attribute>
     </attributes>
     <plan selected="yes">
@@ -1818,6 +2077,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 010C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000932</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_86</attribute>
     </attributes>
     <plan selected="yes">
@@ -1838,6 +2100,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 024D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000983</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_87</attribute>
     </attributes>
     <plan selected="yes">
@@ -1856,6 +2121,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 013C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000589</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_88</attribute>
     </attributes>
     <plan selected="yes">
@@ -1880,6 +2148,9 @@
       <attribute class="java.lang.String" name="household_zone">Lambeth 008B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000625</attribute>
       <attribute class="java.lang.String" name="household_LAD">Lambeth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_89</attribute>
     </attributes>
     <plan selected="yes">
@@ -1898,6 +2169,9 @@
       <attribute class="java.lang.String" name="household_zone">Kensington and Chelsea 020B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000596</attribute>
       <attribute class="java.lang.String" name="household_LAD">Kensington and Chelsea</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_90</attribute>
     </attributes>
     <plan selected="yes">
@@ -1918,6 +2192,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 018E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000389</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_91</attribute>
     </attributes>
     <plan selected="yes">
@@ -1936,6 +2213,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 006C</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000928</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_92</attribute>
     </attributes>
     <plan selected="yes">
@@ -1960,6 +2240,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 019F</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000978</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_93</attribute>
     </attributes>
     <plan selected="yes">
@@ -1982,6 +2265,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 012B</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000383</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_94</attribute>
     </attributes>
     <plan selected="yes">
@@ -2006,6 +2292,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 014A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000385</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_95</attribute>
     </attributes>
     <plan selected="yes">
@@ -2028,6 +2317,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 018A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000940</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_96</attribute>
     </attributes>
     <plan selected="yes">
@@ -2050,6 +2342,9 @@
       <attribute class="java.lang.String" name="household_zone">Westminster 019D</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000978</attribute>
       <attribute class="java.lang.String" name="household_LAD">Westminster</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_97</attribute>
     </attributes>
     <plan selected="yes">
@@ -2074,6 +2369,9 @@
       <attribute class="java.lang.String" name="household_zone">Hammersmith and Fulham 018A</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000389</attribute>
       <attribute class="java.lang.String" name="household_LAD">Hammersmith and Fulham</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_98</attribute>
     </attributes>
     <plan selected="yes">
@@ -2092,6 +2390,9 @@
       <attribute class="java.lang.String" name="household_zone">Wandsworth 008E</attribute>
       <attribute class="java.lang.String" name="household_LSOA">E02000930</attribute>
       <attribute class="java.lang.String" name="household_LAD">Wandsworth</attribute>
+      <attribute class="java.lang.Boolean" name="hasLicence">true</attribute>
+      <attribute class="java.lang.Boolean" name="hasBike">true</attribute>
+      <attribute class="java.lang.Boolean" name="carAvail">true</attribute>
       <attribute class="java.lang.String" name="hid">hh_99</attribute>
     </attributes>
     <plan selected="yes">
