@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE facilities SYSTEM "http://www.matsim.org/files/dtd/facilities_v2.dtd">
+
+<facilities>
+	<facility id="f_auto_0" linkId="2334" x="528634.2579046559" y="176896.66392752415">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_1" linkId="5221378346666464887_5221366706420448015" x="526119.234602612" y="179603.58648628547">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_10" linkId="5221366439366159649_5221377837590084573" x="527078.6194482464" y="176482.43567397105">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_100" linkId="5567" x="529761.7368782632" y="178365.99890125444">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_101" linkId="3525" x="525178.4512428247" y="178523.57080106268">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_102" linkId="5221366260093413071_5221366260012653869" x="530655.2191989479" y="177343.76775792852">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_103" linkId="5221366439366159649_5221366882964419571" x="526618.43590109" y="176007.75885299646">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_104" linkId="5221365581208631625_5221365583920038271" x="529408.4088370439" y="176304.24473508855">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_105" linkId="664" x="523088.2216705148" y="177799.98926093773">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_106" linkId="7876" x="526382.9227327132" y="175486.0461534211">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_107" linkId="7113" x="526529.72456857" y="177336.21345004413">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_108" linkId="5221367110955832945_5221367110786858683" x="528096.8892346873" y="174512.94839594836">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_109" linkId="3988" x="523550.99829932273" y="176134.22533392836">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_11" linkId="1604" x="526859.8222201022" y="178974.38154376837">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_110" linkId="4502" x="525247.821928627" y="174636.03545884366">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_111" linkId="7312" x="526403.8914717847" y="174732.84455091765">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_112" linkId="7223" x="524305.2069399055" y="174579.3451582473">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_113" linkId="7315" x="530253.4313145026" y="175519.6207959856">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_114" linkId="8703" x="527676.6082524228" y="177385.18253208217">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_115" linkId="609" x="526916.668188974" y="178645.57550643408">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_116" linkId="1580" x="527813.391305279" y="176266.56542639766">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_117" linkId="4706" x="527327.4083834885" y="179213.92776696957">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_118" linkId="2866" x="530607.1807076307" y="176702.81753076552">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_119" linkId="5221378115961717809_5221378115987208297" x="523874.9855370613" y="177847.7263191296">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_12" linkId="5225" x="528103.2214630372" y="176433.39177567867">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_120" linkId="5221366956051637281_5221367139569702643" x="527615.9829570547" y="174288.08446863698">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_121" linkId="5221377818480998145_5221377818493457555" x="524860.2743392407" y="176303.62064289142">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_122" linkId="7025" x="530881.8626066034" y="176226.3575178145">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_123" linkId="2445" x="531020.6877841897" y="178158.55154316328">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_124" linkId="1666" x="529570.264854156" y="177274.09136360197">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_125" linkId="1601" x="526833.8639353955" y="178886.0825864036">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_126" linkId="5058" x="526372.665821372" y="179186.99190817197">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_127" linkId="4534" x="524092.1012779278" y="177488.31263235887">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_128" linkId="8196" x="529403.6544040715" y="176107.60899903596">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_129" linkId="7479" x="523938.0944871205" y="178420.9628865547">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_13" linkId="664" x="523088.12642542267" y="177799.89125268447">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_130" linkId="5221365548786873963_5221365561937271449" x="529598.3608420406" y="175405.05369634746">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_131" linkId="7636" x="529183.1632377459" y="178349.9002065459">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_132" linkId="5221366728452456373_5221366728745837451" x="525957.797641455" y="178522.74458034264">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_133" linkId="9124" x="525870.5541864703" y="174365.86743015557">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_134" linkId="2355" x="525554.8497564784" y="178593.70157394191">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_135" linkId="5221378127803714953_5221378127797665585" x="524139.0630327332" y="178292.84410142392">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_136" linkId="9729" x="527681.8544766061" y="174602.23723621972">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_137" linkId="6037" x="529297.5498592167" y="175052.7871230636">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_138" linkId="3681" x="529155.456363863" y="178207.42280534428">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_139" linkId="2587" x="530614.1514795482" y="175550.77609973395">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_14" linkId="5221378008399549081_5221378007204360095" x="524273.96641612786" y="177104.50210162322">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_140" linkId="1584" x="524688.2692556418" y="178480.29932616357">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_141" linkId="4936" x="523675.27382603276" y="177161.833381613">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_142" linkId="1593" x="524753.7407746542" y="179313.34816871138">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_143" linkId="2261" x="525107.6915174274" y="178907.1335515693">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_144" linkId="1421" x="524227.1623807851" y="177305.72387931874">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_145" linkId="8013" x="523694.73480645526" y="178168.9869730399">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_146" linkId="5221377998978816603_5221377356601060163" x="524253.5506491668" y="176443.5644592839">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_147" linkId="7370" x="529769.3338313896" y="176436.96235845034">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_148" linkId="2520" x="527179.3646370014" y="174254.20272257374">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_149" linkId="9950" x="528077.5906932775" y="179209.80723493485">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_15" linkId="383" x="527216.4949200815" y="175730.3853980396">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_150" linkId="5103" x="529029.691340529" y="174802.22150040825">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_151" linkId="5221366952307727429_5221366959452072243" x="527548.2591717646" y="174580.30506741782">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_152" linkId="7166" x="529173.9593927593" y="178414.34180652097">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_153" linkId="9342" x="525087.7885732263" y="176586.16371301672">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_154" linkId="8888" x="528372.6363911513" y="178461.1968368463">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_155" linkId="10538" x="527832.7646076651" y="177926.44125612208">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_156" linkId="8728" x="529689.8135011332" y="174881.11585175004">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_157" linkId="30" x="524263.4595341119" y="175048.1362940433">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_158" linkId="6731" x="526710.0318037897" y="177893.99885483744">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_159" linkId="5221377911153002145_5221377911237600753" x="525662.5630127299" y="178207.762708757">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_16" linkId="8651" x="523841.56640648143" y="174843.47975574207">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_160" linkId="5346" x="524393.1873324333" y="175296.3422014133">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_161" linkId="8376" x="529603.7114163458" y="176730.15008826178">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_162" linkId="10399" x="528061.6371392817" y="175612.12204132293">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_163" linkId="2876" x="530683.0612024333" y="179026.34110271075">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_164" linkId="3514" x="530211.302738476" y="175525.9897050761">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_165" linkId="8610" x="528011.1020984191" y="175531.4896112174">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_166" linkId="10104" x="525907.1554044947" y="178800.90619509178">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_167" linkId="5221366460600230945_5221365581593469489" x="528924.5598946526" y="178753.5346601719">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_168" linkId="5006" x="529959.5676762859" y="177256.6357771156">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_169" linkId="8728" x="529694.7877433264" y="174876.43250917422">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_17" linkId="10581" x="523688.6009973389" y="178805.38805966903">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_170" linkId="10010" x="528550.0803202487" y="175523.58344867488">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_171" linkId="5221366601669714097_5221366411358458953" x="527269.3058334761" y="178749.49328305808">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_172" linkId="3426" x="527567.4168781763" y="175426.4156023221">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_173" linkId="3525" x="525657.8101156574" y="178603.20559069375">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_174" linkId="1624" x="524508.6440297499" y="177998.51568554738">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_175" linkId="5221366208436072103_5221366208363264957" x="529729.4044834956" y="178694.99102051984">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_176" linkId="6369" x="527065.6356272602" y="174560.32283282466">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_177" linkId="5221366784559268067_5221366784053269627" x="527491.1408459239" y="177853.57373120217">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_178" linkId="7631" x="523966.50950332097" y="174973.8973459462">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_179" linkId="5221377881290372807_5221377878429608629" x="525266.9807447835" y="177244.39189027387">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_18" linkId="7272" x="526019.984159989" y="178825.93630426886">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_180" linkId="5221366861622359389_5221377924509752055" x="525903.962884654" y="177230.970840388">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_181" linkId="7523" x="530200.5628018528" y="175147.51236691605">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_182" linkId="5824" x="527248.1496404099" y="178493.81810560293">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_183" linkId="6237" x="525178.5389301296" y="177101.66287372328">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_184" linkId="7433" x="525635.5937381337" y="177384.66499421198">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_185" linkId="5221366451864463921_5221366448193457023" x="528983.3707064575" y="178614.800833409">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_186" linkId="4667" x="527292.6627807437" y="174424.73259851005">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_187" linkId="7731" x="530456.1684301003" y="177553.1489378098">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_188" linkId="10" x="527385.0520679782" y="178698.36054039252">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_189" linkId="5221365552243874069_5221365551957699299" x="529880.0650453812" y="175249.95356169943">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_19" linkId="6846" x="529625.9402654996" y="178286.3528137187">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_190" linkId="2110" x="525469.3795458452" y="178954.25504688555">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_191" linkId="5221377946731849257_5221377946568988459" x="524646.4174051998" y="178187.98860680705">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_192" linkId="10447" x="527135.1618944714" y="176083.53679910532">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_193" linkId="7715" x="523424.84195371554" y="178182.22949668643">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_194" linkId="2322" x="524944.045197607" y="179533.144495657">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_195" linkId="10881" x="523326.51058079646" y="175361.28586354613">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_196" linkId="5221366408573685353_5221366408970014175" x="527837.8425283394" y="178613.4264920294">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_197" linkId="6829" x="528489.1889550345" y="176471.27913068756">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_198" linkId="9385" x="525764.002771291" y="174135.38462600182">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_199" linkId="5981" x="524151.6205989938" y="175303.76678257238">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_2" linkId="4528" x="529387.0122476079" y="176668.62088655806">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_20" linkId="5221366695539502243_5221378373437238523" x="525649.8111940596" y="179758.43360032781">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_200" linkId="5868" x="529835.7761648201" y="175025.45947582184">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_201" linkId="8189" x="525499.6351688043" y="177931.7910391301">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_202" linkId="9350" x="530627.8432635306" y="175425.41848348148">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_203" linkId="7146" x="526507.3684862795" y="175299.1309285616">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_204" linkId="6037" x="529073.9430284349" y="174638.97975755116">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_205" linkId="7498" x="524744.1295696397" y="177279.27929389448">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_206" linkId="7191" x="528276.159103122" y="178555.88420547795">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_207" linkId="3525" x="525807.495901569" y="178636.51306152612">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_208" linkId="9275" x="526845.0866681851" y="175717.26946023077">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_209" linkId="7291" x="525168.2846232431" y="178386.17826919485">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_21" linkId="9928" x="528031.1991045449" y="174505.25653364256">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_210" linkId="5221367112705585789_5221367139469493421" x="527847.5616427864" y="174479.03484921617">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_211" linkId="4209" x="526421.0010810235" y="178465.32003612808">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_212" linkId="5221367054682046925_5221367056441674539" x="528959.6157781252" y="175819.71860926633">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_213" linkId="9848" x="528675.9040322385" y="174544.12494027903">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_214" linkId="5221378063725962843_5221378063714824009" x="523135.9123333958" y="177033.07339714008">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_215" linkId="5221367058235295251_5221367058249504563" x="529104.1915560699" y="175781.8006706716">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_216" linkId="6579" x="524273.48056802875" y="176477.15766321882">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_217" linkId="5221366582233334657_5221366582604949257" x="527815.9060212036" y="178865.29055227505">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_218" linkId="5221366722603938667_5221366697939923911" x="526132.7971476284" y="179584.4997326316">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_219" linkId="361" x="528449.9002164883" y="174846.30394859114">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_22" linkId="7855" x="527291.5458958707" y="175195.84829763375">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_220" linkId="260" x="531022.7518303379" y="177778.91727180773">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_221" linkId="5221367068909014205_5221367066162129331" x="528608.4246609412" y="175788.66778974328">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_222" linkId="5221377973952627477_5221377973894458127" x="524819.0983206745" y="177520.40312610418">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_223" linkId="5221366273800336505_5221366285266594665" x="530275.8931436363" y="176711.28031499853">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_224" linkId="10077" x="528084.6895534955" y="176030.9690892463">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_225" linkId="5221366766476644551_5221366763757058871" x="526846.0165433511" y="178504.43818502245">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_226" linkId="6598" x="523452.98199348146" y="177431.46443419324">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_227" linkId="5221377972658412123_5221377972447039045" x="524739.1190411503" y="177420.57196411313">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_228" linkId="5221366267039216799_5221366270964594665" x="530849.4918970807" y="176950.63661675178">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_229" linkId="2900" x="526131.2118299603" y="174616.92676210392">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_23" linkId="5221377811110559933_5221377359256762015" x="524424.9633801503" y="175859.96616895412">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_230" linkId="3970" x="524487.7843985142" y="177429.78159552705">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_231" linkId="654" x="530361.1182829785" y="176842.6162857431">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_232" linkId="7692" x="524162.6347246231" y="179214.92302887444">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_233" linkId="1680" x="530737.3879539354" y="175837.56155637567">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_234" linkId="1026" x="526489.2479824233" y="177468.59484737096">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_235" linkId="4079" x="525133.4577354977" y="177230.4747475535">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_236" linkId="2493" x="526794.0932591694" y="174895.67906327578">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_237" linkId="5221366319076984827_5221366237479259113" x="529624.1764815153" y="177350.57507574055">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_238" linkId="2214" x="524040.77316699736" y="177878.88683926372">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_239" linkId="9218" x="527564.8259361152" y="176516.53675552786">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_24" linkId="5221366054340265321_5221366054373143139" x="530025.7262240043" y="179234.94124139557">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_240" linkId="5221366605135610371_5221366706404100625" x="526811.8014727562" y="179245.59173507174">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_241" linkId="5376" x="530296.1356824399" y="176914.70428193474">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_242" linkId="5386" x="524604.7024111844" y="177273.36480823712">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_243" linkId="5221366706404100625_5221366709557094903" x="526443.4863369417" y="179555.24055208912">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_244" linkId="5221366459736320921_5221366474213451401" x="528651.8338915654" y="179250.27631386192">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_245" linkId="260" x="531176.828785675" y="177782.3288649015">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_246" linkId="5221366185057363807_5221366184121257481" x="529461.9528773128" y="178334.29315366867">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_247" linkId="6039" x="524407.9052972725" y="179524.247820539">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_248" linkId="5221378003287176307_5221378004015061315" x="524087.76614173315" y="176904.62577936825">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_249" linkId="5221366768583876963_5221366778738254695" x="527136.7028179474" y="178425.18644566624">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_25" linkId="2732" x="527982.7320936626" y="178876.63968227486">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_250" linkId="5221377948138413559_5221377951392612513" x="524481.1790447865" y="178589.92655352416">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_251" linkId="6005" x="525898.7035100198" y="174949.95119916354">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_252" linkId="5221378004731324303_5221378002530771275" x="524152.0364981623" y="176862.84753048373">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_253" linkId="9347" x="529607.720754228" y="178284.4305651551">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_254" linkId="7943" x="526901.8141668403" y="174478.04940265778">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_255" linkId="2839" x="525135.7035110026" y="177007.17606021024">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_256" linkId="10586" x="530508.2493150262" y="175427.05736679793">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_257" linkId="5022" x="525879.5432438172" y="178137.33926499003">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_258" linkId="6103" x="530018.9931727388" y="175661.64452867926">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_259" linkId="9128" x="529655.7390261918" y="178666.88661845017">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_26" linkId="5221366185057363807_5221366184121257481" x="529405.9537007655" y="178376.54881272485">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_260" linkId="3525" x="525937.3215087058" y="178654.67768666171">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_261" linkId="5221377914706394491_5221377914645076409" x="525486.8525692995" y="178646.81843043704">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_262" linkId="7225" x="529334.0202817504" y="176137.8568433062">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_263" linkId="4800" x="526930.2964600228" y="178363.17129765707">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_264" linkId="9456" x="524256.2502733602" y="179453.64972510524">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_265" linkId="6871" x="530681.045244774" y="177746.69713997527">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_266" linkId="5221378316783918565_5221377909326991993" x="524579.0871449491" y="179054.53911290233">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_267" linkId="6237" x="525190.6008723337" y="177241.1995351809">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_268" linkId="7952" x="524167.7138463609" y="178527.69545049922">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_269" linkId="1176" x="526351.493077353" y="179384.72425678856">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_27" linkId="664" x="523089.2347865304" y="177800.78676757473">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_270" linkId="5221366474969706659_5221366421577223219" x="528579.5437097654" y="179290.14493695486">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_271" linkId="5221366601669714097_5221366411358458953" x="527681.3950274602" y="178678.69040808472">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_272" linkId="5221366966056434901_5221367127647809219" x="527645.8975021526" y="175165.44930537025">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_273" linkId="3770" x="526123.7920683755" y="179107.62882108288">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_274" linkId="5221366242785052859_5221366833403577349" x="527127.0386470915" y="176805.3176815056">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_275" linkId="4487" x="527718.559092158" y="177879.67919380934">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_276" linkId="7533" x="524964.5416672939" y="176865.67836508725">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_277" linkId="7241" x="527523.1246662828" y="176938.26556158077">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_278" linkId="5425" x="530511.8443963701" y="176453.71680244073">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_279" linkId="5221366291523497389_5221366291760198759" x="529983.2496947449" y="177287.19086531614">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_28" linkId="5221377725232247133_5221377725220676233" x="525790.9265455898" y="174133.67947501724">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_280" linkId="5221366351513638125_5221366357142086029" x="528228.9292478092" y="176749.99043037504">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_281" linkId="2501" x="529651.1147695201" y="176734.0174733815">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_282" linkId="644" x="524894.0475399762" y="174287.85655815247">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_283" linkId="9115" x="527653.3723757584" y="174365.9257944752">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_284" linkId="3356" x="530064.0939267041" y="178922.1448549777">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_285" linkId="3241" x="523887.2895361972" y="178516.5970154173">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_286" linkId="8408" x="529769.5685070032" y="176510.638413097">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_287" linkId="7803" x="524974.7307641554" y="174630.95179616584">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_288" linkId="5221365567693825511_5221365567944688555" x="529734.7501906219" y="175401.24093563063">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_289" linkId="5221378363547779429_5221378355837690055" x="525553.1924404983" y="178810.3790363918">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_29" linkId="9385" x="525783.2868763903" y="174151.62304792437">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_290" linkId="7539" x="530345.9840372908" y="176428.92176471962">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_291" linkId="4842" x="525259.3980285585" y="177009.7450701075">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_292" linkId="5221365625390068735_5221366239901675883" x="530473.6351671527" y="176537.44684168266">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_293" linkId="7024" x="525205.7707308563" y="175935.13579797078">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_294" linkId="7558" x="524305.1875458867" y="176761.6753273634">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_295" linkId="5221366976131764083_5221366966056434901" x="527403.1380894287" y="175332.80787099144">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_296" linkId="5345" x="528694.2240535197" y="175889.51250358848">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_297" linkId="3431" x="524406.9948238931" y="178236.64994748603">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_298" linkId="9156" x="523457.3668224048" y="177742.4042933133">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_299" linkId="9039" x="527202.1937515207" y="177847.24979997255">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_3" linkId="3796" x="528868.8288911137" y="178615.01982798273">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_30" linkId="5221378005332711175_5221378005241779759" x="524197.4904173438" y="176783.09429189807">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_300" linkId="6420" x="530071.690436446" y="176851.18097219712">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_301" linkId="5617" x="524338.2207268381" y="175067.7361371903">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_302" linkId="7113" x="526595.9304082268" y="177369.24606811092">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_303" linkId="8826" x="530945.3355395976" y="176741.53884169465">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_304" linkId="5221366187950710173_5221366194037083031" x="529396.6313098659" y="178102.10235317022">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_305" linkId="7248" x="530826.5321157518" y="176761.31723311875">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_306" linkId="3525" x="525929.6262601982" y="178650.2691531027">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_307" linkId="9729" x="527620.6055563962" y="174713.67146143632">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_308" linkId="9608" x="527138.1932652757" y="176073.72921404513">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_309" linkId="5221366709831702779_5221366705672681835" x="526361.1610349729" y="180026.24184045556">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_31" linkId="9429" x="528485.2913311874" y="176834.06037785506">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_310" linkId="7054" x="524500.0795024586" y="176635.1075171865">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_311" linkId="1254" x="529608.9354378068" y="176105.6151228366">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_312" linkId="518" x="530533.5865158977" y="178962.28465327542">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_313" linkId="10711" x="526251.5278113988" y="178297.0088649049">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_314" linkId="5221377388477734303_5221377380002354049" x="523826.2966468061" y="175111.48861304452">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_315" linkId="3047" x="529546.7449922438" y="177975.11702138674">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_316" linkId="3598" x="523889.28470587515" y="176489.42271493163">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_317" linkId="5221378356483787345_5221378356717809721" x="525418.9095825122" y="179099.10883075002">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_318" linkId="6161" x="523673.03752013436" y="175768.34558584634">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_319" linkId="5221378023913233041_5221378018508933203" x="523558.83911962283" y="176843.14794964445">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_32" linkId="5221377980632982581_5221377969166606727" x="524697.0098251663" y="177018.98769063555">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_320" linkId="4870" x="529898.0265124234" y="178668.01547486315">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_321" linkId="1740" x="525418.2225075208" y="174248.37030748217">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_322" linkId="549" x="525404.0503506799" y="178870.40470306718">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_323" linkId="4091" x="527217.4520372846" y="179633.767043603">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_324" linkId="5221377917727511149_5221366420848936073" x="526035.1254785986" y="178690.07258824934">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_325" linkId="5221378063938997551_5221378063943498693" x="522931.96254600666" y="177121.25269076446">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_326" linkId="10193" x="525507.0100116597" y="179581.3283832482">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_327" linkId="4591" x="523884.081424611" y="178466.13057466692">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_328" linkId="5221366448253067121_5221366447693204039" x="528879.967623772" y="178480.82856014435">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_329" linkId="3241" x="523535.8014861074" y="178565.59810774555">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_33" linkId="5221366804889141585_5221366804167565009" x="527041.9208491099" y="177532.50458977112">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_330" linkId="5221377891789938289_5221377866792597525" x="525800.7438201257" y="176972.91926769624">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_331" linkId="4511" x="527895.576678946" y="179059.7231899216">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_332" linkId="5221378119924773533_5221378120072233007" x="523937.95975162415" y="178042.75297642962">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_333" linkId="5801" x="527249.4319804165" y="179638.90672852704">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_334" linkId="8326" x="524767.800371674" y="176758.3422884742">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_335" linkId="6037" x="529150.3323394085" y="174777.00731946406">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_336" linkId="9385" x="525748.1796776562" y="174125.5453963463">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_337" linkId="5221366752721529393_5221366747233236651" x="526522.4225030515" y="178001.6129145968">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_338" linkId="5221366346814679579_5221367045126127207" x="528712.4090115459" y="176507.39468665002">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_339" linkId="10435" x="528595.9172240406" y="175891.72908740496">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_34" linkId="5221366454447747335_5221366206542936931" x="529523.4816578359" y="178510.10492312044">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_340" linkId="5221366466694936121_5221366467724797305" x="528432.3472510264" y="179268.17903426592">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_341" linkId="5221366403647235105_5221366398783108999" x="527701.8173176665" y="178314.23888249169">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_342" linkId="5221366820443206089_5221366995045808177" x="527370.4290206144" y="176343.1214886837">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_343" linkId="8093" x="524783.0594333734" y="174401.88454929972">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_344" linkId="10379" x="526769.9582607371" y="174306.23997617583">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_345" linkId="5221378112247979917_5221378066855722713" x="523493.65449958853" y="177674.73162508203">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_346" linkId="5832" x="530100.1170815679" y="175073.68297862355">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_347" linkId="10766" x="527654.7958958327" y="175258.6520204467">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_348" linkId="6332" x="526660.9307626989" y="179128.26100928747">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_349" linkId="6424" x="524186.5520297888" y="177938.31017550195">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_35" linkId="4609" x="524280.7033136657" y="175534.47275991368">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_36" linkId="3434" x="527795.2952070755" y="179627.04877738867">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_37" linkId="5221366995346888959_5221366995045808177" x="527344.7384609244" y="176331.5938001612">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_38" linkId="5221366762538963493_5221366762578950105" x="526813.4518432312" y="178645.72321988898">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_39" linkId="7513" x="525825.2437715309" y="175712.21927087058">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_4" linkId="5221366722338060375_5221366722467342557" x="526206.7524917194" y="179283.19311998723">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_40" linkId="7577" x="529425.5441159558" y="176214.89742754702">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_41" linkId="936" x="528649.0218677785" y="176950.5326243471">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_42" linkId="5221378001267433247_5221378000963915109" x="523927.82388273114" y="176497.08423588684">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_43" linkId="5221377948138413559_5221377951392612513" x="524503.396631274" y="178536.88602010024">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_44" linkId="5553" x="526329.6905533875" y="178248.67930342988">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_45" linkId="5221366163174533083_5221366449910773879" x="529389.3374811182" y="179134.0153396812">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_46" linkId="10317" x="527471.1750436361" y="177223.67890459977">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_47" linkId="10503" x="524026.44772585906" y="177601.3368314702">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_48" linkId="9078" x="526387.5277948015" y="174523.6867599245">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_49" linkId="5221366452375006913_5221366452310616181" x="529141.3071773145" y="178644.4185828748">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_5" linkId="4463" x="529822.8059961997" y="178905.68114322642">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_50" linkId="5221378063938997551_5221378063943498693" x="523075.7233929924" y="177127.6028621797">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_51" linkId="4670" x="522801.1537250672" y="176043.54219092065">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_52" linkId="4277" x="523614.3360418461" y="178703.3562868719">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_53" linkId="3299" x="524186.03931559663" y="179078.63190364995">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_54" linkId="10611" x="530424.6050037252" y="175449.83446712856">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_55" linkId="9040" x="523924.9274532371" y="179001.73020070806">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_56" linkId="5221366761068236843_5221366761144460231" x="526596.3937128813" y="178594.2358209834">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_57" linkId="1044" x="526241.9434977496" y="177793.5255081891">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_58" linkId="10104" x="525833.7741580525" y="178773.8747479139">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_59" linkId="9385" x="525785.7267503997" y="174214.87275368423">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_6" linkId="5221378348242449069_5221378346015196729" x="525198.6903442258" y="179459.64465879783">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_60" linkId="542" x="529271.3225440884" y="178103.21489835918">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_61" linkId="5221366963840338509_5221366961124175583" x="527449.0377700026" y="174907.7934215893">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_62" linkId="10284" x="526994.3459751657" y="177757.34620046697">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_63" linkId="9307" x="527869.8714827897" y="175546.94235272708">
+		<activity type="education">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_64" linkId="308" x="528790.4138174242" y="175494.0185667815">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_65" linkId="2855" x="525211.9973203059" y="177365.52560847663">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_66" linkId="5221366242785052859_5221366833403577349" x="526883.0036200306" y="176728.6378478431">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_67" linkId="1209" x="524535.1422327303" y="179541.6724105223">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_68" linkId="9297" x="523903.42036858853" y="179191.5140925646">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_69" linkId="5221377924509752055_5221378316036714027" x="525096.9661386167" y="178289.04817989806">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_7" linkId="10492" x="527139.1758065606" y="176879.31997837676">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_70" linkId="5221366584963969633_5221366584383734447" x="527845.1373252843" y="179298.22860223736">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_71" linkId="2972" x="527013.6722225341" y="177693.4373304864">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_72" linkId="10679" x="525611.4319819773" y="178177.53486131254">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_73" linkId="1380" x="526224.757177142" y="174249.99469539552">
+		<activity type="work">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_74" linkId="5221366441796982721_5221366193847402497" x="529373.3784306163" y="177950.37159683768">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_75" linkId="8884" x="524209.2801058231" y="178721.64866894463">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_76" linkId="5221377746939901317_5221377746943513673" x="525295.8961502917" y="174823.3094572615">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_77" linkId="5221366182421816479_5221366182521712919" x="529391.1730406686" y="178510.14877277473">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_78" linkId="371" x="530375.0142792843" y="176332.96473759203">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_79" linkId="5221377966980605349_5221377966383760579" x="524469.9053388784" y="177024.58476037826">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_8" linkId="5298" x="530643.5906864097" y="176913.50990595238">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_80" linkId="8189" x="525990.3513161557" y="177429.4837608212">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_81" linkId="8634" x="526910.241923382" y="178935.98241791685">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_82" linkId="5221377388477734303_5221377380002354049" x="523932.8528367831" y="175098.90309739014">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_83" linkId="4386" x="524452.7948414338" y="179586.3247264014">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_84" linkId="9398" x="531031.1810514266" y="177375.8741386248">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_85" linkId="9385" x="525733.3946129641" y="174123.63030803448">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_86" linkId="5221365548786873963_5221365561937271449" x="529798.3046899509" y="175533.4111644159">
+		<activity type="leisure">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_87" linkId="5221377917727511149_5221366420848936073" x="528199.9254524641" y="178781.23907097097">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_88" linkId="5221366578767076531_5221366465353563193" x="528405.0426040856" y="179054.5214916214">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_89" linkId="8304" x="528728.2852018373" y="176123.04598998948">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_9" linkId="10351" x="529517.0822535537" y="175615.5670547735">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_90" linkId="4742" x="523802.0011106992" y="176403.48648364865">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_91" linkId="10726" x="528084.172601489" y="175604.70159179982">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_92" linkId="5221377747383935389_5221377744675316673" x="525302.2533297691" y="174994.18148050382">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_93" linkId="10005" x="525623.0644805286" y="174323.81799758517">
+		<activity type="shop">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_94" linkId="5380" x="524288.3172315443" y="176587.8744042175">
+		<activity type="park">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_95" linkId="5221366974956179581_5221366861622359389" x="527097.9836573377" y="175683.27982364452">
+		<activity type="pub">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_96" linkId="5221377906652348111_5221377906876564085" x="525745.0396903452" y="178673.4455494255">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_97" linkId="5221366267039216799_5221366270964594665" x="530831.3224126926" y="176976.19873105394">
+		<activity type="home">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_98" linkId="2105" x="526504.1683050843" y="175546.43290170532">
+		<activity type="gym">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+	<facility id="f_auto_99" linkId="8910" x="525279.1134545691" y="177404.01317417528">
+		<activity type="medical">			<opentime day="wkday" start_time="undefined" end_time="9223372036854775807:00:00" />
+
+		</activity>
+	</facility>
+</facilities>
